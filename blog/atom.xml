@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[monero]]></title>
+  <link href="http://monero.co/atom.xml" rel="self"/>
+  <link href="http://monero.co/"/>
+  <updated>2013-10-18T19:31:28+00:00</updated>
+  <id>http://monero.co/</id>
+  <author>
+    <name><![CDATA[monero]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
