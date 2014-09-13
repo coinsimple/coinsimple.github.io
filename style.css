@@ -1,0 +1,287 @@
+* {
+    outline: none;
+}
+
+blockquote {
+    font-size: 25px;
+    font-weight: 300;
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+body {
+    font-family: Lato, sans-serif;
+    font-weight: lighter;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+cite {
+    font-style: normal;
+    font-weight: lighter;
+}
+
+footer {
+    background: #273138;
+    font-size: 14px;
+    text-align: left;
+    text-transform: uppercase;
+    padding: 60px 20px;
+}
+
+footer a {
+    color: #fff;
+    display: inline-block;
+    padding-right: 15px;
+    text-decoration: none;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 50px;
+    letter-spacing: 5px;
+}
+
+h2 {
+    color: #333333;
+    font-weight: lighter;
+}
+
+h3 {
+    color: #333333;
+    font-weight: normal;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+h4 {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+input, textarea, select {
+    -webkit-appearance: none;
+    border-radius: 4px;
+    border: 1px solid #DBDFEC;
+    box-sizing: border-box;
+    font-size: 16px;
+    line-height: 24px;
+    padding: 5px 10px;
+}
+
+input[type="text"], textarea {
+    background: #ECEEF3;
+}
+
+section {
+    padding: 90px 20px;
+}
+
+select {
+    background: #FFF url("images/select-arrows.png") no-repeat right;
+}
+
+.col-3 {
+    box-sizing: border-box;
+    float: left;
+    padding: 0 50px;
+    width: 33%;
+}
+
+.container {
+    max-width: 1180px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.container.narrow {
+    max-width: 800px;
+}
+
+.content {
+    color: #777777;
+    font-size: 20px;
+    font-weight: lighter;
+    line-height: 30px;
+    padding-bottom: 40px;
+}
+
+.content h2.tagline {
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.primary-bg {
+    background-color: #0369BB;
+    color: #fff;
+}
+
+.splash {
+    background: #0369BB url('images/splash.png') center no-repeat;
+    background-size: cover;
+    color: #fff;
+    height: 800px;
+    padding-top: 0px;
+    text-align: left;
+}
+
+.splash h1 {
+    margin: 0;
+    padding-top: 270px;
+}
+
+.splash p {
+    font-size: 23px;
+    font-weight: lighter;
+    line-height: 35px;
+    margin-bottom: 35px;
+}
+
+.splash .actions {
+    display: block;
+    margin: 0;
+    padding: 10px 0;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.actions li {
+    display: inline-block;
+    list-style: none;
+}
+
+.actions a {
+    color: #fff;
+    display: block;
+    font-size: 12px;
+    letter-spacing: 2px;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+.actions a:hover {
+    color: #DDDDDD;
+}
+
+.actions a.primary {
+    border: 2px solid #fff;
+}
+
+.actions a.primary:hover {
+    border-color: #DDDDDD;
+}
+
+.button {
+    
+}
+
+.cta {
+    background-color: #0369BB;
+    border: none;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+    color: #fff;
+    display: block;
+    font-size: 22px;
+    letter-spacing: 3px;
+    line-height: 70px;
+    text-align: center;
+    text-decoration: none;
+    width: 300px;
+}
+
+.features {
+    padding-top: 0;
+    text-align: left;
+}
+
+.features .container {
+    border-top: 1px solid #DDDDDD;
+    padding-top: 20px;
+}
+
+.features .container div {
+    padding: 45px 0;
+}
+
+.icon {
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-right: 280px !important;
+}
+
+.icon.analytics {
+    background-image: url('images/analytics-icon.png');
+}
+
+.icon.invoice {
+    background-image: url('images/invoice-icon.png');
+}
+
+.icon.switch {
+    background-image: url('images/switch-icon.png');
+}
+
+.features p {
+    color: #777777;
+    font-size: 17px;
+    line-height: 28px;
+    margin-top: 5px;
+}
+
+.service-features {
+    background: #FAFAFA;
+    border-top: 1px solid #DDDDDD;
+    font-size: 18px;
+    line-height: 28px;
+    overflow: hidden;
+}
+
+section > .cta {
+    margin: 0 auto;
+}
+
+@media(max-width:880px) {
+    .col-3 {
+        float: none;
+        width: 100%;
+    }
+
+    .splash {
+        height: auto;
+        padding-bottom: 150px;
+    }
+
+    .splash h1 {
+        padding-top: 150px;
+    }
+}
+
+@media(max-width: 680px) {
+    .icon {
+        padding-right: 180px !important;
+    }
+
+    .splash {
+        padding-bottom: 100px;
+    }
+
+    .splash h1 {
+        font-size: 30px;
+        letter-spacing: 2px;
+        padding-top: 100px;
+    }
+
+    .splash p {
+        font-size: 18px;
+    }
+}

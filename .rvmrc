@@ -1,4 +1,3 @@
-rvm use 1.9.3
 DOMAIN="coinsimple.com"
 git config --global --unset-all user.name
 git config --global --unset-all user.email
