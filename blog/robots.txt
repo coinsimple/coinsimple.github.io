@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://monero.co/sitemap.xml 
