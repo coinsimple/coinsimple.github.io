@@ -262,6 +262,14 @@ select {
     overflow: hidden;
 }
 
+.team-section {
+  padding: 55px 20px 90px 20px;
+}
+
+.team-section h2 {
+  margin-bottom: 40px;
+}
+
 section > .cta {
     margin: 0 auto;
 }
