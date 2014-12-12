@@ -1,0 +1,4 @@
+# robots.txt for coinsimple.com 
+
+User-agent: *
+Disallow: /uploads/ 
