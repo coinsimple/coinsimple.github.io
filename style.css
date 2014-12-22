@@ -30,6 +30,10 @@ footer {
     padding: 60px 20px;
 }
 
+footer table {
+  width: 100%
+}
+
 footer a {
     color: #fff;
     display: inline-block;
@@ -157,6 +161,17 @@ select {
     font-weight: lighter;
     line-height: 35px;
     margin-bottom: 35px;
+}
+
+
+.contacts {
+    text-align: left;
+    width: 70%
+}
+
+.partners a {
+    float: right;
+    width: 50%;
 }
 
 .splash .actions {
@@ -420,3 +435,22 @@ text-shadow: none;
     width: 100%;
   }
 }
+
+
+#LI_1 {
+    box-sizing: border-box;
+    color: rgb(156, 182, 202);
+    float: left;
+    height: 48px;
+    opacity: 0.800000011920929;
+    width: 150px;
+    z-index: 0;
+    perspective-origin: 75px 24px;
+    transform-origin: 75px 24px;
+    border: 0px none rgb(156, 182, 202);
+    font: normal normal 300 18px/normal 'Source Sans Pro', sans-serif;
+    list-style: none outside none;
+    margin: 0px 15px 10px 0px;
+    outline: rgb(156, 182, 202) none 0px;
+    transition: opacity 0.2s ease 0s;
+}/*#LI_1*/
