@@ -1,0 +1,14 @@
+.actions li {
+    display: inline-block;
+    list-style: none;
+}
+
+.actions a {
+    color: #29292a;
+    letter-spacing: 2px;
+    text-decoration: none;
+    opacity:0.8;
+        &:hover{
+            opacity:1;
+        }
+}

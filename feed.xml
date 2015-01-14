@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>CoinSimple</title>
+        <description>CoinSimple - Your Bitcoin Business Dashboard</description>
+        <link>http://coinsimple.com/</link>
+        <atom:link href="http://coinsimple.com/feed.xml" rel="self" type="application/rss+xml" />
+        <pubDate>Wed, 14 Jan 2015 15:51:14 -0600</pubDate>
+        <lastBuildDate>Wed, 14 Jan 2015 15:51:14 -0600</lastBuildDate>
+        <generator>Jekyll v2.5.3</generator>
+        
+            <item>
+                <title>How can I use CoinSimple with WooCommerce?</title>
+                <description>&lt;p&gt;The CoinSimple WooCommerce plugin is an extension of the WooCommerce plugin for Wordpress, and allows e-commerce stores, running on Wordpress and WooCommerce, to accept bitcoin through CoinSimple.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;h2 id=&quot;requirements&quot;&gt;Requirements&lt;/h2&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Installed WooCommerce plugin on your Wordpress site&lt;/strong&gt;. (Installation instructions can be found at &lt;a href=&quot;http://www.woothemes.com/woocommerce/&quot;&gt;www.woothemes.com/woocommerce&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A Business ID and API key from CoinSimple.com&lt;/strong&gt;. To find your information, go to your &lt;a href=&quot;http://coinsimple.com&quot;&gt;CoinSimple.com&lt;/a&gt; dashboard, select your business, and go to “Settings”. You will find your &lt;em&gt;Business ID&lt;/em&gt; and &lt;em&gt;API key&lt;/em&gt; under “Busines Information” and “API Credentials”.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Do not attempt to install this plugin through the WordPress Plugins dashboard. Use the following instructions, instead.&lt;/em&gt;&lt;/p&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/coinsimple/coinsimple-woocommerce/archive/master.zip&quot;&gt;Download a zip file of the plugin&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Log in to your WordPress site as administrator and click on “Plugins”-&amp;gt;“Add New”-&amp;gt;“Upload”-&amp;gt;“Choose file” and select the zip file you downloaded. Click on “Install Now” followed by “Activate Plugin”.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;At this point the plugin is installed and activated but it still needs to be enabled and configured.&lt;/p&gt;
+&lt;h2 id=&quot;configuration&quot;&gt;Configuration&lt;/h2&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;Log into the WordPress dashboard and click “WooCommerce” and then “Settings”.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure&gt;
+&lt;img src=&quot;/media/woocommerce/woocommerce-plugin-action-settings-store.png&quot; alt=&quot;Select WooCommerce then Settings&quot; /&gt;&lt;figcaption&gt;Select “WooCommerce” then “Settings”&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;ol start=&quot;2&quot; type=&quot;1&quot;&gt;
+&lt;li&gt;In the screen that appears click on “Checkout” and then “CoinSimple”.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure&gt;
+&lt;img src=&quot;/media/woocommerce/woocommerce-plugin-screen-payments-coinsimple-select.png&quot; alt=&quot;WooCommerce checkout settings page&quot; /&gt;&lt;figcaption&gt;WooCommerce checkout settings page&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;ol start=&quot;5&quot; type=&quot;1&quot;&gt;
+&lt;li&gt;Enter your CoinSimple.com business ID and API in the appropriate fields. Enter the URL of the page that your customers will be directed to after they make their payment.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure&gt;
+&lt;img src=&quot;/media/woocommerce/woocommerce-plugin-screen-payments-coinsimple-settings.png&quot; alt=&quot;Business ID, API key and callback URL&quot; /&gt;&lt;figcaption&gt;Business ID, API key and callback URL&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;ol start=&quot;5&quot; type=&quot;1&quot;&gt;
+&lt;li&gt;Click “Save changes”.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;use&quot;&gt;Use&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;When a buyer selects “Bitcoin” as their payment method, an invoice is generated at CoinSimple.&lt;/li&gt;
+&lt;li&gt;After the buyer pays, CoinSimple directs the buyer to the page that you selected in your Settings above.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;support&quot;&gt;Support&lt;/h2&gt;
+&lt;h3 id=&quot;coinsimple-support&quot;&gt;CoinSimple Support&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;If you are having a problem with this plugin, please use &lt;a href=&quot;https://github.com/coinsimple/coinsimple-woocommerce/issues&quot;&gt;this Github issues page&lt;/a&gt; to report your problem.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;woocommerce-support&quot;&gt;WooCommerce Support&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.woothemes.com/woocommerce/&quot;&gt;Homepage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://docs.woothemes.com&quot;&gt;Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://support.woothemes.com&quot;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;troubleshooting&quot;&gt;Troubleshooting&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This plugin requires PHP 5.4 or higher to function correctly. Contact your webhosting provider or server administrator if you are unsure which version is installed on your web server.&lt;/li&gt;
+&lt;li&gt;Ensure a valid SSL certificate is installed on your server. Also ensure your root CA cert is updated. If your CA cert is not current, you will see curl SSL verification errors.&lt;/li&gt;
+&lt;li&gt;Verify that your web server is not blocking POSTs from servers it may not recognize. Double check this on your firewall as well, if one is being used.&lt;/li&gt;
+&lt;li&gt;Check the system error log file (usually the web server error log) for any errors during CoinSimple payment attempts. If you contact CoinSimple support, they will ask to see the log file to help diagnose the problem.&lt;/li&gt;
+&lt;li&gt;If all else fails, send an email describing your issue in detail to &lt;script type=&quot;text/javascript&quot;&gt;
+&lt;!--
+h=&#39;&amp;#x63;&amp;#x6f;&amp;#x69;&amp;#110;&amp;#x73;&amp;#x69;&amp;#x6d;&amp;#112;&amp;#108;&amp;#x65;&amp;#46;&amp;#x63;&amp;#x6f;&amp;#x6d;&#39;;a=&#39;&amp;#64;&#39;;n=&#39;&amp;#x73;&amp;#x75;&amp;#112;&amp;#112;&amp;#x6f;&amp;#114;&amp;#116;&#39;;e=n+a+h;
+document.write(&#39;&lt;a h&#39;+&#39;ref&#39;+&#39;=&quot;ma&#39;+&#39;ilto&#39;+&#39;:&#39;+e+&#39;&quot; clas&#39;+&#39;s=&quot;em&#39; + &#39;ail&quot;&gt;&#39;+e+&#39;&lt;\/&#39;+&#39;a&#39;+&#39;&gt;&#39;);
+// --&gt;
+&lt;/script&gt;&lt;noscript&gt;&amp;#x73;&amp;#x75;&amp;#112;&amp;#112;&amp;#x6f;&amp;#114;&amp;#116;&amp;#32;&amp;#x61;&amp;#116;&amp;#32;&amp;#x63;&amp;#x6f;&amp;#x69;&amp;#110;&amp;#x73;&amp;#x69;&amp;#x6d;&amp;#112;&amp;#108;&amp;#x65;&amp;#32;&amp;#100;&amp;#x6f;&amp;#116;&amp;#32;&amp;#x63;&amp;#x6f;&amp;#x6d;&lt;/noscript&gt;. In your support request, please provide:
+&lt;ul&gt;
+&lt;li&gt;Wordpress version&lt;/li&gt;
+&lt;li&gt;WooCommerce version&lt;/li&gt;
+&lt;li&gt;PHP version&lt;/li&gt;
+&lt;li&gt;Other plugins installed&lt;/li&gt;
+&lt;li&gt;Configuration settings for the CoinSimple plugin&lt;/li&gt;
+&lt;li&gt;Screenshot of error messages, if any&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+                <pubDate>Tue, 13 Jan 2015 20:52:00 -0600</pubDate>
+                <link>http://coinsimple.com/support/how-can-i-use-coinsimple-with-woocommerce</link>
+                <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-use-coinsimple-with-woocommerce</guid>
+                
+                
+                    <category>support</category>
+                
+                    <category>bitcoin for ecommerce merchants</category>
+                
+            </item>
+        
+            <item>
+                <title>How can I use CoinSimple with Wordpress eCommerce?</title>
+                <description>&lt;p&gt;The CoinSimple WP e-Commerce plugin is an extension of the WP e-Commerce plugin for Wordpress, and allows e-commerce stores, running on Wordpress and WP e-Commerce, to accept bitcoin through CoinSimple.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;h2 id=&quot;requirements&quot;&gt;Requirements&lt;/h2&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;&lt;strong&gt;Installed WP e-Commerce plugin on your Wordpress site&lt;/strong&gt;. (Installation instructions can be found at &lt;a href=&quot;http://www.getshopped.org&quot;&gt;www.getshopped.org&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A Business ID and API key from CoinSimple.com&lt;/strong&gt;. To find your information, go to your &lt;a href=&quot;http://coinsimple.com&quot;&gt;CoinSimple.com&lt;/a&gt; dashboard, select your business, and go to “Settings”. You will find your &lt;em&gt;Business ID&lt;/em&gt; and &lt;em&gt;API key&lt;/em&gt; under “Busines Information” and “API Credentials”.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Do not attempt to install this plugin through the WordPress Plugins dashboard. Use the following instructions, instead.&lt;/em&gt;&lt;/p&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/coinsimple/coinsimple-wpecommerce/archive/master.zip&quot;&gt;Download a zip file of the plugin&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Log in to your WordPress site as administrator and click on “Plugins”-&amp;gt;“Add New”-&amp;gt;“Upload”-&amp;gt;“Choose file” and select the zip file you downloaded. Click on “Install Now” followed by “Activate Plugin”.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;At this point the plugin is installed and activated but it still needs to be enabled and configured.&lt;/p&gt;
+&lt;h2 id=&quot;configuration&quot;&gt;Configuration&lt;/h2&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;Log into the WordPress dashboard and click “Settings” and then “Store”.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure&gt;
+&lt;img src=&quot;/media/wpecommerce/wpecommerce-plugin-action-settings-store.png&quot; alt=&quot;Select Settings then Store&quot; /&gt;&lt;figcaption&gt;Select Settings then “Store”&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;ol start=&quot;2&quot; type=&quot;1&quot;&gt;
+&lt;li&gt;In the screen that appears click on “Payments”.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure&gt;
+&lt;img src=&quot;/media/wpecommerce/wpecommerce-plugin-screen-payments-coinsimple.png&quot; alt=&quot;Payments with WP eCommerce&quot; /&gt;&lt;figcaption&gt;Payments with WP eCommerce&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;ol start=&quot;3&quot; type=&quot;1&quot;&gt;
+&lt;li&gt;Select the checkbox to the left of “Bitcoin Payments by CoinSimple” and click Settings below the CoinSimple payment option. Change the “Display Name” if desired.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure&gt;
+&lt;img src=&quot;/media/wpecommerce/wpecommerce-plugin-screen-payments-coinsimple-display_name.png&quot; alt=&quot;Bitcoin Payments by CoinSimple&quot; /&gt;&lt;figcaption&gt;Bitcoin Payments by CoinSimple&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;ol start=&quot;5&quot; type=&quot;1&quot;&gt;
+&lt;li&gt;Enter your CoinSimple.com business ID and API in the appropriate fields. Enter the URL of the page that your customers will be directed to after they make their payment. For WP e-Commerce, the default page is &lt;code&gt;http://yourwebsite.com/products-page/transaction-results/&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure&gt;
+&lt;img src=&quot;/media/wpecommerce/wpecommerce-plugin-screen-payments-coinsimple-settings.png&quot; alt=&quot;Business ID, API key and callback URL&quot; /&gt;&lt;figcaption&gt;Business ID, API key and callback URL&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;ol start=&quot;5&quot; type=&quot;1&quot;&gt;
+&lt;li&gt;Click “Update”.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;use&quot;&gt;Use&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;When a buyer selects “Bitcoin” as their payment method, an invoice is generated at CoinSimple.&lt;/li&gt;
+&lt;li&gt;After the buyer pays, CoinSimple directs the buyer to the page that you selected in your Settings above.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;support&quot;&gt;Support&lt;/h2&gt;
+&lt;h3 id=&quot;coinsimple-support&quot;&gt;CoinSimple Support&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;If you are having a problem with this plugin, please use &lt;a href=&quot;https://github.com/coinsimple/coinsimple-wpecommerce/issues&quot;&gt;this Github issues page&lt;/a&gt; to report your problem.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;wp-e-commerce-support&quot;&gt;WP e-Commerce Support&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://getshopped.org/&quot;&gt;Homepage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://docs.getshopped.org/&quot;&gt;Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wordpress.org/support/plugin/wp-e-commerce&quot;&gt;Support Forums&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;troubleshooting&quot;&gt;Troubleshooting&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This plugin requires PHP 5.4 or higher to function correctly. Contact your webhosting provider or server administrator if you are unsure which version is installed on your web server.&lt;/li&gt;
+&lt;li&gt;Ensure a valid SSL certificate is installed on your server. Also ensure your root CA cert is updated. If your CA cert is not current, you will see curl SSL verification errors.&lt;/li&gt;
+&lt;li&gt;Verify that your web server is not blocking POSTs from servers it may not recognize. Double check this on your firewall as well, if one is being used.&lt;/li&gt;
+&lt;li&gt;Check the system error log file (usually the web server error log) for any errors during CoinSimple payment attempts. If you contact CoinSimple support, they will ask to see the log file to help diagnose the problem.&lt;/li&gt;
+&lt;li&gt;If all else fails, send an email describing your issue in detail to &lt;script type=&quot;text/javascript&quot;&gt;
+&lt;!--
+h=&#39;&amp;#x63;&amp;#x6f;&amp;#x69;&amp;#110;&amp;#x73;&amp;#x69;&amp;#x6d;&amp;#112;&amp;#108;&amp;#x65;&amp;#46;&amp;#x63;&amp;#x6f;&amp;#x6d;&#39;;a=&#39;&amp;#64;&#39;;n=&#39;&amp;#x73;&amp;#x75;&amp;#112;&amp;#112;&amp;#x6f;&amp;#114;&amp;#116;&#39;;e=n+a+h;
+document.write(&#39;&lt;a h&#39;+&#39;ref&#39;+&#39;=&quot;ma&#39;+&#39;ilto&#39;+&#39;:&#39;+e+&#39;&quot; clas&#39;+&#39;s=&quot;em&#39; + &#39;ail&quot;&gt;&#39;+e+&#39;&lt;\/&#39;+&#39;a&#39;+&#39;&gt;&#39;);
+// --&gt;
+&lt;/script&gt;&lt;noscript&gt;&amp;#x73;&amp;#x75;&amp;#112;&amp;#112;&amp;#x6f;&amp;#114;&amp;#116;&amp;#32;&amp;#x61;&amp;#116;&amp;#32;&amp;#x63;&amp;#x6f;&amp;#x69;&amp;#110;&amp;#x73;&amp;#x69;&amp;#x6d;&amp;#112;&amp;#108;&amp;#x65;&amp;#32;&amp;#100;&amp;#x6f;&amp;#116;&amp;#32;&amp;#x63;&amp;#x6f;&amp;#x6d;&lt;/noscript&gt;. In your support request, please provide:
+&lt;ul&gt;
+&lt;li&gt;Wordpress version&lt;/li&gt;
+&lt;li&gt;WP eCommerce version&lt;/li&gt;
+&lt;li&gt;PHP version&lt;/li&gt;
+&lt;li&gt;Other plugins installed&lt;/li&gt;
+&lt;li&gt;Configuration settings for the CoinSimple plugin&lt;/li&gt;
+&lt;li&gt;Screenshot of error messages, if any&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+                <pubDate>Tue, 13 Jan 2015 20:52:00 -0600</pubDate>
+                <link>http://coinsimple.com/support/how-can-i-use-coinsimple-with-wordpress-ecommerce</link>
+                <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-use-coinsimple-with-wordpress-ecommerce</guid>
+                
+                
+                    <category>support</category>
+                
+                    <category>bitcoin for ecommerce merchants</category>
+                
+            </item>
+        
+            <item>
+                <title>How can I accept bitcoin directly to a bitcoin address using CoinSimple?</title>
+                <description>&lt;p&gt;You can use CoinSimple to accept bitcoins directly to any bitcoin address. This guide shows you how to find your bitcoin address in several wallets.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;h2 id=&quot;example-wallets&quot;&gt;Example Wallets&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#bitcoin-core&quot;&gt;Bitcoin Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#multibit&quot;&gt;MultiBit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#hive&quot;&gt;Hive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#green-address&quot;&gt;Green Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#blockchain.info&quot;&gt;Blockchain.info&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;bitcoin-core&quot;&gt;Bitcoin Core&lt;/h2&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;Start Bitcoin Core and click on the “File” menu and the on “Receiving Addresses”.&lt;/li&gt;
+&lt;li&gt;Select the address that you would like to use and click on the “Copy” button on the lower left.&lt;/li&gt;
+&lt;li&gt;Return to the CoinSimple website and paste the bitcoin address.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Congratulations! You can now start receiving bitcoin directly to your Bitcoin Core wallet.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#example-wallets&quot;&gt;Back To Top&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;multibit&quot;&gt;MultiBit&lt;/h2&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;Start MultiBit and click on the “Trade” menu and the on “Request Bitcoin”.&lt;/li&gt;
+&lt;li&gt;On the right panel, you will see a Bitcoin address. Press on the button that is right next to the address to copy it to your clipboard.&lt;/li&gt;
+&lt;li&gt;Return to the CoinSimple website and paste the bitcoin address.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Congratulations! You can now start receiving bitcoin directly to your MultiBit wallet.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#example-wallets&quot;&gt;Back To Top&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;hive&quot;&gt;Hive&lt;/h2&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;Start Hive and hover your mouse over the Bitcoin address of your choice.&lt;/li&gt;
+&lt;li&gt;Click on the address and it will be copied to your clipboard.&lt;/li&gt;
+&lt;li&gt;Return to the CoinSimple website and paste the bitcoin address.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Congratulations! You can now start receiving bitcoin directly to your Hive wallet.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#example-wallets&quot;&gt;Back To Top&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;green-address&quot;&gt;Green Address&lt;/h2&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;Start Green Address and click on “Receive Money” link on the left.&lt;/li&gt;
+&lt;li&gt;Click on “Show URI and address”.&lt;/li&gt;
+&lt;li&gt;Select the bitcoin address that starts with either 1 or 3 and copy it.&lt;/li&gt;
+&lt;li&gt;Return to the CoinSimple website and paste the bitcoin address.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Congratulations! You can now start receiving bitcoin directly to your Green Address wallet.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#example-wallets&quot;&gt;Back To Top&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;blockchain.info&quot;&gt;Blockchain.info&lt;/h2&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;Login to Blockchain.info.&lt;/li&gt;
+&lt;li&gt;On the lower left of the screen, you will see a box that says “This Is Your Bitcoin Address”. Copy the address to your clipboard.&lt;/li&gt;
+&lt;li&gt;Return to the CoinSimple website and paste the bitcoin address.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Congratulations! You can now start receiving bitcoin directly to your Blockchain.info wallet.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#example-wallets&quot;&gt;Back To Top&lt;/a&gt;&lt;/p&gt;</description>
+                <pubDate>Tue, 13 Jan 2015 19:05:00 -0600</pubDate>
+                <link>http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-a-bitcoin-address-using-coinsimple</link>
+                <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-a-bitcoin-address-using-coinsimple</guid>
+                
+                
+                    <category>support</category>
+                
+                    <category>using coinsimple</category>
+                
+            </item>
+        
+            <item>
+                <title>How can I accept bitcoin to my Trezor wallet with CoinSimple?</title>
+                <description>&lt;p&gt;In order to use CoinSimple to accept bitcoins directly to your Trezor hardware wallet, you need to find your master public key of your Trezor device. The first receiving address will be used by CoinSimple to verify that you have entered consistent information.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;Connect your Trezor hardware device to your computer and navigate to &lt;a href=&quot;http://mytrezor.com&quot;&gt;mytrezor.com&lt;/a&gt;. On the main screen, click on “Add Account” on the left.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;img src=&quot;/media/trezor/trezor-screen-create_new_account.png&quot; alt=&#39;Connect your Trezor hardware device to your computer, and navigate to mytrezor.com. On the main screen, click on &quot;Add Account&quot;.&#39;/&gt;
+&lt;div class=&quot;reference&quot;&gt;
+&lt;strong&gt;MyTrezor.com Account Creation&lt;/strong&gt;
+&lt;p&gt;
+Click on “Add Account” on the left
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;ol start=&quot;2&quot; type=&quot;1&quot;&gt;
+&lt;li&gt;“Account 3” is created by the software and it can be seen on the left as in the image below. In this demo, we will use “Account 3” for payment processing. Click on the “Advanced details” button.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;img src=&quot;/media/trezor/trezor-screen-advanced_details.png&quot; alt=&#39;Connect your Trezor hardware device to your computer, and navigate to mytrezor.com. Click on the &quot;Advanced details&quot; button. &#39;/&gt;
+&lt;div class=&quot;reference&quot;&gt;
+&lt;strong&gt;MyTrezor.com Main Screen&lt;/strong&gt;
+&lt;p&gt;
+Click on the “Advanced details” button.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;ol start=&quot;3&quot; type=&quot;1&quot;&gt;
+&lt;li&gt;Find “Account 3” under the “Account public keys (XPUB)” section, and copy the long alphanumeric code that starts with “xpub” for “Account 3”.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;img src=&quot;/media/trezor/trezor-action-copy_xpub_key.png&quot; alt=&#39;Find the Account that you would like to use for payment processing and copy the long alphanumeric code that starts with &quot;xpub&quot;&#39;/&gt;
+&lt;div class=&quot;reference&quot;&gt;
+&lt;strong&gt;Trezor account master public key&lt;/strong&gt;
+&lt;p&gt;
+Copy the long alphanumeric code that starts with “xpub”
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;ol start=&quot;4&quot; type=&quot;1&quot;&gt;
+&lt;li&gt;Return to the CoinSimple website and paste the xpub key in the “Enter your account public key” field.&lt;/li&gt;
+&lt;li&gt;Return to the MyTrezor.com website and click on your Account on the left of the screen. Click on the “Receive” tab and copy the address that is shown that starts with “1”.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;img src=&quot;/media/trezor/trezor-action-copy_first_address.png&quot; alt=&#39;Return to the MyTrezor.com website and click on your Account on the left of the screen. Click on the &quot;Receive&quot; tab and copy the address that is shown that starts with &quot;1&quot;&#39;/&gt;
+&lt;div class=&quot;reference&quot;&gt;
+&lt;strong&gt;Trezor first receiving address&lt;/strong&gt;
+&lt;p&gt;
+Click on the “Export Watching-Only Copy” button on the right of the screen.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;ol start=&quot;6&quot; type=&quot;1&quot;&gt;
+&lt;li&gt;Return to the CoinSimple website and paste the key in the “Enter the first address” field above.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Congratulations! You can now start receiving bitcoin directly with your Trezor hierarchical deterministic wallet.&lt;/p&gt;</description>
+                <pubDate>Tue, 13 Jan 2015 19:05:00 -0600</pubDate>
+                <link>http://coinsimple.com/support/how-can-i-accept-bitcoin-to-my-trezor-wallet-with-coinsimple</link>
+                <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-accept-bitcoin-to-my-trezor-wallet-with-coinsimple</guid>
+                
+                
+                    <category>support</category>
+                
+                    <category>using coinsimple</category>
+                
+            </item>
+        
+            <item>
+                <title>How can I accept bitcoin directly to my Armory wallet using CoinSimple?</title>
+                <description>&lt;p&gt;In order to use CoinSimple to accept bitcoins directly to your Armory bitcoin wallet, you need to export your watching-only wallet file and the associated first receiving address from Armory. The first receiving address will be used by CoinSimple to verify that you have entered consistent information. This guide explains how to do that for version 0.92.3 of the Armory wallet.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;p&gt;If you experience problems with these instructions, please upgrade your wallet by visiting this &lt;a href=&quot;https://bitcoinarmory.org/download.html&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Follow these steps:&lt;/p&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;Start Armory, click on your preferred wallet from “Available Wallets” and lick on the “Wallet Properties” button on the left.&lt;/li&gt;
+&lt;li&gt;A new “Wallet Properties” window will appear. Click on the “Export Watching-Only Copy” button on the right of the screen.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;img src=&quot;/media/armory/armory-0.92.3-button-export_watching_only_copy.png&quot; alt=&#39;Start Armory, click on your preferred wallet from &quot;Available Wallets&quot; and lick on the &quot;Wallet Properties&quot; button on the left. A new &quot;Wallet Properties&quot; window will appear. Click on the &quot;Export Watching-Only Copy&quot; button on the right of the screen.&#39;/&gt;
+&lt;div class=&quot;reference&quot;&gt;
+&lt;strong&gt;Armory Wallet Properties&lt;/strong&gt;
+&lt;p&gt;
+Click on the “Export Watching-Only Copy” button on the right of the screen.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;ol start=&quot;3&quot; type=&quot;1&quot;&gt;
+&lt;li&gt;In the “Watch-Only Wallet Export” window that appears, click on the “Export Watching-Only Wallet File” in the middle of the window.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;img src=&quot;/media/armory/armory-0.92.3-screen-watch_only_wallet_export.png&quot; alt=&#39;In the &quot;Watch-Only Wallet Export&quot; window that appears, click on the &quot;Export Watching-Only Wallet File&quot; in the middle of the window.&#39;/&gt;
+&lt;div class=&quot;reference&quot;&gt;
+&lt;strong&gt;Armory Wallet Properties&lt;/strong&gt;
+&lt;p&gt;
+Click on the “Export Watching-Only Wallet File” in the middle of the window.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;ol start=&quot;4&quot; type=&quot;1&quot;&gt;
+&lt;li&gt;Save file with the “.watchonly.wallet” extension on your Desktop. Press “Done” in the “Watch-Only Wallet Export” window.&lt;/li&gt;
+&lt;li&gt;Go to the CoinSimple website, navigate to “Settings”, “Wallets and Processors”, and click on “Armory”.&lt;/li&gt;
+&lt;li&gt;In the form that appears, press the “Choose File” button and upload the “.watchonly.wallet” file.&lt;/li&gt;
+&lt;li&gt;Return to Armory. In the “Addresses in Wallet” section of the “Wallet Properties” window, you will see a list of addresses. Right-click on the first address, and press “Copy to Clipboard”.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;img src=&quot;/media/armory/armory-0.92.3-action-copy-first_receiving_address.png&quot; alt=&#39;In the &quot;Addresses in Wallet&quot; section of the &quot;Wallet Properties&quot; window, you will see a list of addresses. Right-click on the first address, and press &quot;Copy to Clipboard&quot;.&#39;/&gt;
+&lt;div class=&quot;reference&quot;&gt;
+&lt;strong&gt;Armory Wallet Addresses&lt;/strong&gt;
+&lt;p&gt;
+Right-click on the first address, and press “Copy to Clipboard”.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;ol start=&quot;8&quot; type=&quot;1&quot;&gt;
+&lt;li&gt;Return to the Armory page on the CoinSimple website. Paste the copied the key in the “For verification, paste the first address of your wallet” field.&lt;/li&gt;
+&lt;li&gt;Click “Submit”&lt;/li&gt;
+&lt;li&gt;You will need to verify the addition of this Armory wallet. So, check your email for a message from CoinSimple and click on the relevant link.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Congratulations! You can now start receiving bitcoin directly with your Armory deterministic wallet.&lt;/p&gt;</description>
+                <pubDate>Tue, 13 Jan 2015 19:05:00 -0600</pubDate>
+                <link>http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-armory-wallet-using-coinsimple</link>
+                <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-armory-wallet-using-coinsimple</guid>
+                
+                
+                    <category>support</category>
+                
+                    <category>using coinsimple</category>
+                
+            </item>
+        
+            <item>
+                <title>How can I accept bitcoin directly to my Electrum wallet using CoinSimple?</title>
+                <description>&lt;p&gt;In order to use CoinSimple to accept bitcoins directly to your Electrum bitcoin wallet, you need to extract your master public key and first receiving address from Electrum. The first receiving address will be used by CoinSimple to verify that you have entered consistent information. This guide explains how to do that for version 1.9.8 of the Electrum wallet.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;p&gt;If you experience problems with these instructions, please upgrade your wallet by visiting this &lt;a href=&quot;https://electrum.org/download.html&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Follow these steps:&lt;/p&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;Start Electrum and click on the “Wallet” menu and then on “Master Public Key”.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;img src=&quot;/media/electrum/electrum-1.9.8-menu-wallet-master_public_key.png&quot; alt=&quot;Start Electrum and click on the &#39;Wallet&#39; menu and then on &#39;Master Public Key&#39;.&quot; /&gt;
+&lt;div class=&quot;reference&quot;&gt;
+&lt;strong&gt;Electrum Menu: Master Public Key&lt;/strong&gt;
+&lt;p&gt;
+Click on the “Wallet” menu and then on “Master Public Key”
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;ol start=&quot;2&quot; type=&quot;1&quot;&gt;
+&lt;li&gt;A “Master Public Key” window will appear. Copy the long series of letters and numbers shown on the left and press “Close”.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;img src=&quot;/media/electrum/electrum-1.9.8-action-copy-master_public_key.png&quot; alt=&#39;A &quot;Master Public Key&quot; window will appear. Copy the long series of letters and numbers shown on the left and press &quot;Close&quot;.&#39; /&gt;
+&lt;div class=&quot;reference&quot;&gt;
+&lt;strong&gt;Your Electrum master public key&lt;/strong&gt;
+&lt;p&gt;
+Copy the long series of letters and numbers shown on the left and press “Close”
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;ol start=&quot;3&quot; type=&quot;1&quot;&gt;
+&lt;li&gt;Go to the CoinSimple website, navigate to “Settings”, “Wallets and Processors”, and click on “Electrum”. In the form that appears, paste the copied the key in the “Enter your Electrum master public key” field.&lt;/li&gt;
+&lt;li&gt;Return to Electrum and click on the “Receive” tab.&lt;/li&gt;
+&lt;li&gt;In the “Receiving” section of the window that opens, you will see a list of addresses. Right-click on the first address, and press “Copy to Clipboard”.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;img src=&quot;/media/electrum/electrum-1.9.8-action-copy-first_receiving_address.png&quot; alt=&#39;In the &quot;Receiving&quot; section of the window that opens, you will see a list of addresses. Right-click on the first address, and press &quot;Copy to Clipboard&quot;.&#39; /&gt;
+&lt;div class=&quot;reference&quot;&gt;
+&lt;strong&gt;Your first Electrum receiving address&lt;/strong&gt;
+&lt;p&gt;
+Right-click on the first address, and press “Copy to Clipboard”
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;ol start=&quot;6&quot; type=&quot;1&quot;&gt;
+&lt;li&gt;Return to the Electrum page on the CoinSimple website. Paste the copied the key in the “For verification, paste the first address of your wallet” field.&lt;/li&gt;
+&lt;li&gt;Click “Submit”&lt;/li&gt;
+&lt;li&gt;You will need to verify the addition of this Electrum wallet. So, check your email for a message from CoinSimple and click on the relevant link.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Congratulations! You can now start receiving bitcoin directly with your Electrum deterministic wallet.&lt;/p&gt;</description>
+                <pubDate>Tue, 13 Jan 2015 19:04:00 -0600</pubDate>
+                <link>http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-electrum-wallet-using-coinsimple</link>
+                <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-electrum-wallet-using-coinsimple</guid>
+                
+                
+                    <category>support</category>
+                
+                    <category>using coinsimple</category>
+                
+            </item>
+        
+            <item>
+                <title>Will CoinSimple integrate PayPal or Stripe payments?</title>
+                <description>&lt;p&gt;We at CoinSimple believe that the future of payments is decentralized and peer-to-peer. We also believe that the centralized payment processor space is well served, and increasingly crowded. Because of that we have decided to focus our limited resources on developing products for the cryptocurrency space.&lt;/p&gt;
+&lt;p&gt;What are your options if you are a merchant and want to provide both a decentralized solution (CoinSimple) and a centralized solution like PayPal or Stripe? There are several options but the one that we have found easiest to work with are a combination of Wordpress for your e-commerce store, WooCommerce for the centralized payments, and the &lt;a href=&quot;https://github.com/coinsimple/coinsimple-woocommerce&quot;&gt;CoinSimple WooCommerce plugin&lt;/a&gt; for the decentralized solutions. See a demo of such a set up, without the PayPal integration, &lt;a href=&quot;http://woocommerce.coinsimple.com&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+                <pubDate>Sun, 11 Jan 2015 06:13:25 -0600</pubDate>
+                <link>http://coinsimple.com/faq/will-coinsimple-integrate-paypal-or-stripe-payments</link>
+                <guid isPermaLink="true">http://coinsimple.com/faq/will-coinsimple-integrate-paypal-or-stripe-payments</guid>
+                
+                
+                    <category>faq</category>
+                
+                    <category>coinsimple basics</category>
+                
+            </item>
+        
+            <item>
+                <title>Who has funded CoinSimple?</title>
+                <description>&lt;p&gt;Initial funding for CoinSimple was provided by &lt;a href=&quot;http://seedco.in&quot;&gt;SeedCoin&lt;/a&gt;, the world’s first seed-stage Bitcoin startup virtual incubator. Additional funding has been provided by a Hong-Kong based private investor.&lt;/p&gt;</description>
+                <pubDate>Sun, 11 Jan 2015 06:13:25 -0600</pubDate>
+                <link>http://coinsimple.com/faq/who-has-funded-coinsimple</link>
+                <guid isPermaLink="true">http://coinsimple.com/faq/who-has-funded-coinsimple</guid>
+                
+                
+                    <category>faq</category>
+                
+                    <category>a closer look at coinsimple</category>
+                
+            </item>
+        
+            <item>
+                <title>How does CoinSimple make money?</title>
+                <description>&lt;p&gt;CoinSimple is currently on its beta testing stage and offers its services for free. After the beta stage is over CoinSimple will operate on the subscription model. We will charge our merchants between $30-$300/month based on volume and features and there will always be a free version of the product.&lt;/p&gt;</description>
+                <pubDate>Sun, 11 Jan 2015 06:13:25 -0600</pubDate>
+                <link>http://coinsimple.com/faq/how-does-coinsimple-make-money</link>
+                <guid isPermaLink="true">http://coinsimple.com/faq/how-does-coinsimple-make-money</guid>
+                
+                
+                    <category>faq</category>
+                
+                    <category>a closer look at coinsimple</category>
+                
+            </item>
+        
+            <item>
+                <title>Who is working on CoinSimple?</title>
+                <description>&lt;p&gt;&lt;strong&gt;Founder and CEO - Nikos Bentenitis&lt;/strong&gt;: Nikos holds a Ph.D. in Physical Chemistry from Rensselaer Polytechnic Institute (RPI) and a B.S. in Chemical Engineering from the National Technical University of Athens, Greece. As a university professor, Nikos held teaching and research appointments in universities of New York, Texas, and Ecuador. And as a researcher with skills in statistical analysis, geographic information systems and computer simulations, he has managed several multi-institution, multi-country collaborations, published peer-reviewed manuscripts, given invited talks, and reviewed textbooks and articles for peer-reviewed research journals.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CTO - Gabriel Manricks&lt;/strong&gt;: Gabriel has extensive experience in several computing languages including PHP (developing in pure PHP and contributing to the Slim open-source framework for PHP,) JavaScript (developing the Sails framework and having published a book on the Meteor framework,) and CSS (contributing to the Jeet framework.) Gabriel is a frequent contributor to NETTUTS, the extremely popular site aimed at web developers and designers that offers tutorials and articles on web technologies. Gabriel is also heavily involved with Koding, the developer community and cloud development environment where developers come together and code in the browser. Gabriel is currently working towards his software engineering degree at the Shenkar College of Engineering and Design in Israel.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Technical Advisor - Andreas M. Antonopoulos&lt;/strong&gt;: Former founding partner of Nemertes Research, Andreas is a broad-reaching technologist, who is well versed in many technology subjects. He is a serial tech entrepreneur, having launched businesses in London, New York, and California. With experience ranging from hardware and electronics to high level business and financial systems technology consulting and decades as CTO/CIO/CSO in many companies, he combines authority with deep knowledge. His many areas of expertise include Bitcoin, crypto-currencies, Information Security, Cryptography, Cloud Computing, Data Centers, Linux, Open Source and robotics software development. As a bitcoin entrepreneur, Andreas has founded three businesses and launched several community open-source projects. He often writes articles and blog posts on bitcoin, he is a permanent host on Let’s Talk Bitcoin and he is a prolific public speaker at technology events.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Design - Jon Myers&lt;/strong&gt;: Jon is the co-founder of JUFTi games (makers of the iPhone game Cornhole All-Stars), a founding partner for DOmedia (marketplace for alternative, traditional and digital out-of-home media), and the founder of the consulting firm Green Myers with high-caliber customers from all over the world. Jon is an expert in UI/UX design and has worked in the user interface design for big-data DNA analysis aimed at human identification.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Business Development - Jeff Root&lt;/strong&gt;: Jeff is the founder of Rootfin, LLC - an internet marketing company in the life insurance industry. Jeff has been developing successful sales and internet marketing strategies since he graduated college at San Diego State University. Beyond growing his own companies, he consults with other agencies on building their life insurance businesses online and is developing new technologies to move the industry forward.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Business Development - Eddy Travia&lt;/strong&gt;: Eddy Travia is the founder of Seedcoin, a global Bitcoin startup virtual incubator currently helping eight seed-stage Bitcoin startups in the development of their cryptocurrency services and products around the world. Seedcoin startups include wallets, bitcoin exchanges, trading platforms, crypto payment processors and software companies. Eddy has worked in graduate management education in Europe for 12 years prior to moving to Shanghai in 2004 to lead the Chinese arm of a European private equity fund. He completed the Stanford Financial Engineering program and managed VC investments in Hong Kong until he discovered Bitcoin and decided to focus on Bitcoin-centric startups and the potential of these firms to transform the worlds of finance, payments and remittances.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Legal and Corporate Governance - Pamela Morgan&lt;/strong&gt;: Pamela Morgan is an attorney, educator, and entrepreneur. Beyond her crypto-currency friendly law practice, where she advises start-ups and established organizations within the bitcoin space, she is working on projects related to smart law, smart contracts, and using blockchain technology to reduce risk and uncertainty in business and legal settings. She works as a consultant for a number of companies on corporate structure, governance, and with executive teams to facilitate strategic planning. An accomplished public speaker and educator, she speaks at conferences around the world on entrepreneurship, teaching, and smart law. Additionally, Pamela proudly serves as a Board Member of She-Crew, a Chicago-based girls empowerment organization, and the College Cryptocurrency Network, an international student organization whose mission is to foster bitcoin and promote crypto-currency education in colleges and universities worldwide.&lt;/p&gt;</description>
+                <pubDate>Sun, 11 Jan 2015 06:13:25 -0600</pubDate>
+                <link>http://coinsimple.com/faq/who-is-working-on-coinsimple</link>
+                <guid isPermaLink="true">http://coinsimple.com/faq/who-is-working-on-coinsimple</guid>
+                
+                
+                    <category>faq</category>
+                
+                    <category>a closer look at coinsimple</category>
+                
+            </item>
+        
+    </channel>
+</rss>

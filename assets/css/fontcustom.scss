@@ -1,0 +1,47 @@
+/*
+  Icon Font: fontcustom
+*/
+
+@font-face {
+  font-family: "fontcustom";
+  src: url("./fontcustom_c434b65c511d777aaaec2854f4e5cb59.eot");
+  src: url("./fontcustom_c434b65c511d777aaaec2854f4e5cb59.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_c434b65c511d777aaaec2854f4e5cb59.woff") format("woff"),
+       url("./fontcustom_c434b65c511d777aaaec2854f4e5cb59.ttf") format("truetype"),
+       url("./fontcustom_c434b65c511d777aaaec2854f4e5cb59.svg#fontcustom") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "fontcustom";
+    src: url("./fontcustom_c434b65c511d777aaaec2854f4e5cb59.svg#fontcustom") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.icon-CoinSimple-Banner:before,
+.icon-CoinSimple-Banner-2:before,
+.icon-CoinSimple-Banner-3:before,
+.icon-CoinSimple-Logo-Blue:before {
+  display: inline-block;
+  font-family: "fontcustom";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.icon-CoinSimple-Banner:before { content: "\f100"; }
+.icon-CoinSimple-Banner-2:before { content: "\f101"; }
+.icon-CoinSimple-Banner-3:before { content: "\f102"; }
+.icon-CoinSimple-Logo-Blue:before { content: "\f103"; }
