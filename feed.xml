@@ -5,9 +5,59 @@
         <description>CoinSimple - Your Bitcoin Business Dashboard</description>
         <link>http://coinsimple.com/</link>
         <atom:link href="http://coinsimple.com/feed.xml" rel="self" type="application/rss+xml" />
-        <pubDate>Thu, 15 Jan 2015 13:57:21 -0600</pubDate>
-        <lastBuildDate>Thu, 15 Jan 2015 13:57:21 -0600</lastBuildDate>
+        <pubDate>Fri, 16 Jan 2015 01:31:59 -0500</pubDate>
+        <lastBuildDate>Fri, 16 Jan 2015 01:31:59 -0500</lastBuildDate>
         <generator>Jekyll v2.5.3</generator>
+        
+            <item>
+                <title>How can I use CoinSimple to issue invoices and send them via email?</title>
+                <description>&lt;p&gt;This guide explains how to issue your first CoinSimple invoice, in 2 steps. The process is quite simple but the steps are described here in great detail.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;p&gt;If you haven’t already done so, set up an account with CoinSimple. Detailed instructions on how to do that, can be found &lt;a href=&quot;http://coinsimple.com/support/how-can-i-set-up-an-account-with-coinsimple&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;create-an-invoice&quot;&gt;1. Create an invoice&lt;/h2&gt;
+&lt;p&gt;All you have to do is click on “Invoices” and then on “New Invoice”. At that point you need to enter or choose:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You client’s name&lt;/li&gt;
+&lt;li&gt;Your client’s email&lt;/li&gt;
+&lt;li&gt;The currency that you want to price your invoice in (all national currencies are supported)&lt;/li&gt;
+&lt;li&gt;The wallet or payment processor that you want to receive your funds to&lt;/li&gt;
+&lt;li&gt;The source of bitcoin price (Bitcoin Average, CoinDesk, Blockchain.info, Bitstamp, BitPay, Coinbase, GoCoin) or a set price&lt;/li&gt;
+&lt;li&gt;The name of your invoice items, their numbers and their unit price&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can also, optionally, choose a discount or to make your invoice &lt;em&gt;recurring&lt;/em&gt;, on the same day of every month, or every a certain number of days. Recurring invoices will be sent perpetually, or for a certain number of times.&lt;/p&gt;
+&lt;h2 id=&quot;save-the-invoice-and-select-delivery-options&quot;&gt;2. Save the invoice and select delivery options&lt;/h2&gt;
+&lt;p&gt;At this point, you can send your invoice via email, review it, edit it, or delete it.&lt;/p&gt;</description>
+                <pubDate>Fri, 16 Jan 2015 18:57:24 -0500</pubDate>
+                <link>http://coinsimple.com/support/how-can-i-use-coinsimple-to-issue-invoices-and-send-them-via-email</link>
+                <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-use-coinsimple-to-issue-invoices-and-send-them-via-email</guid>
+                
+                
+                    <category>support</category>
+                
+                    <category>using coinsimple</category>
+                
+            </item>
+        
+            <item>
+                <title>How can I set up an account with CoinSimple?</title>
+                <description>&lt;p&gt;This guide will explain the process for signing up with CoinSimple in 3 steps. The process is quite simple but the steps are described in great detail.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;h2 id=&quot;sign-up-for-a-coinsimple-account&quot;&gt;1. Sign Up for a CoinSimple account&lt;/h2&gt;
+&lt;p&gt;Go to the &lt;a href=&quot;http://coinsimple.com/signup&quot;&gt;CoinSimple Sign Up page&lt;/a&gt;. Enter your name, your email and select a password. After you read the &lt;a href=&quot;http://coinsimple.com/terms&quot;&gt;CoinSimple Terms of Service&lt;/a&gt; and &lt;a href=&quot;http://coinsimple.com/privacy&quot;&gt;Privacy Policy&lt;/a&gt;, and check that you agree with them.&lt;/p&gt;
+&lt;h2 id=&quot;set-up-a-business&quot;&gt;2. Set up a business&lt;/h2&gt;
+&lt;p&gt;The app will automatically lead you to a page to set up a new business. (In order to create an invoice, you need to first create a business, that is why, the app will not let you move to any other part of the site, before you set up a business.) In the form that appears, enter the name of your business and its description. &lt;em&gt;Both the name and description of your business appear in the invoices that you send to your customers, so choose them appropriately&lt;/em&gt;. Also, enter the currency that you use most commonly for your invoices (you can change that later and even for every invoice that you issue). Finally, enter the source of the bitcoin price that you will most commonly use for your invoices (again, you can change the source later, and for every invoice, if you like.) After you select whether you want to receive emails when you create a new invoice and when you get paid, you are done.&lt;/p&gt;
+&lt;h2 id=&quot;connect-your-wallet-or-payment-processor&quot;&gt;3. Connect your wallet or payment processor&lt;/h2&gt;
+&lt;p&gt;The app will now lead you to a page to connect your wallet or your existing bitcoin processor account. (In order to get paid for your invoices, you will need to have a wallet where the funds will be directed – CoinSimple &lt;strong&gt;does not offer a wallet service&lt;/strong&gt;. That is why, the app will not let you move to any other part of the site, if you don’t set up wallet.) These support pages explain how you can connect your &lt;a href=&quot;http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-electrum-wallet-using-coinsimple&quot;&gt;Electrum&lt;/a&gt;, &lt;a href=&quot;http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-armory-wallet-using-coinsimple&quot;&gt;Armory&lt;/a&gt;, &lt;a href=&quot;http://coinsimple.com/support/how-can-i-accept-bitcoin-to-my-trezor-wallet-with-coinsimple&quot;&gt;Trezor&lt;/a&gt;, or any &lt;a href=&quot;http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-a-bitcoin-address-using-coinsimple&quot;&gt;bitcoin address&lt;/a&gt;. At this point you can add additional wallets and bitcoin payment processors to your business to give yourself more flexibility.&lt;/p&gt;</description>
+                <pubDate>Fri, 16 Jan 2015 18:57:24 -0500</pubDate>
+                <link>http://coinsimple.com/support/how-can-i-set-up-an-account-with-coinsimple</link>
+                <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-set-up-an-account-with-coinsimple</guid>
+                
+                
+                    <category>support</category>
+                
+                    <category>using coinsimple</category>
+                
+            </item>
         
             <item>
                 <title>How can I use CoinSimple with WooCommerce?</title>
@@ -84,7 +134,7 @@ document.write(&#39;&lt;a h&#39;+&#39;ref&#39;+&#39;=&quot;ma&#39;+&#39;ilto&#39
 &lt;li&gt;Screenshot of error messages, if any&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-                <pubDate>Tue, 13 Jan 2015 20:52:00 -0600</pubDate>
+                <pubDate>Tue, 13 Jan 2015 20:52:00 -0500</pubDate>
                 <link>http://coinsimple.com/support/how-can-i-use-coinsimple-with-woocommerce</link>
                 <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-use-coinsimple-with-woocommerce</guid>
                 
@@ -176,7 +226,7 @@ document.write(&#39;&lt;a h&#39;+&#39;ref&#39;+&#39;=&quot;ma&#39;+&#39;ilto&#39
 &lt;li&gt;Screenshot of error messages, if any&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-                <pubDate>Tue, 13 Jan 2015 20:52:00 -0600</pubDate>
+                <pubDate>Tue, 13 Jan 2015 20:52:00 -0500</pubDate>
                 <link>http://coinsimple.com/support/how-can-i-use-coinsimple-with-wordpress-ecommerce</link>
                 <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-use-coinsimple-with-wordpress-ecommerce</guid>
                 
@@ -240,7 +290,7 @@ document.write(&#39;&lt;a h&#39;+&#39;ref&#39;+&#39;=&quot;ma&#39;+&#39;ilto&#39
 &lt;/ol&gt;
 &lt;p&gt;Congratulations! You can now start receiving bitcoin directly to your Blockchain.info wallet.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;#example-wallets&quot;&gt;Back To Top&lt;/a&gt;&lt;/p&gt;</description>
-                <pubDate>Tue, 13 Jan 2015 19:05:00 -0600</pubDate>
+                <pubDate>Tue, 13 Jan 2015 19:05:00 -0500</pubDate>
                 <link>http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-a-bitcoin-address-using-coinsimple</link>
                 <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-a-bitcoin-address-using-coinsimple</guid>
                 
@@ -308,7 +358,7 @@ Click on the “Export Watching-Only Copy” button on the right of the screen.
 &lt;li&gt;Return to the CoinSimple website and paste the key in the “Enter the first address” field above.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Congratulations! You can now start receiving bitcoin directly with your Trezor hierarchical deterministic wallet.&lt;/p&gt;</description>
-                <pubDate>Tue, 13 Jan 2015 19:05:00 -0600</pubDate>
+                <pubDate>Tue, 13 Jan 2015 19:05:00 -0500</pubDate>
                 <link>http://coinsimple.com/support/how-can-i-accept-bitcoin-to-my-trezor-wallet-with-coinsimple</link>
                 <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-accept-bitcoin-to-my-trezor-wallet-with-coinsimple</guid>
                 
@@ -371,7 +421,7 @@ Right-click on the first address, and press “Copy to Clipboard”.
 &lt;li&gt;You will need to verify the addition of this Armory wallet. So, check your email for a message from CoinSimple and click on the relevant link.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Congratulations! You can now start receiving bitcoin directly with your Armory deterministic wallet.&lt;/p&gt;</description>
-                <pubDate>Tue, 13 Jan 2015 19:05:00 -0600</pubDate>
+                <pubDate>Tue, 13 Jan 2015 19:05:00 -0500</pubDate>
                 <link>http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-armory-wallet-using-coinsimple</link>
                 <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-armory-wallet-using-coinsimple</guid>
                 
@@ -432,7 +482,7 @@ Right-click on the first address, and press “Copy to Clipboard”
 &lt;li&gt;You will need to verify the addition of this Electrum wallet. So, check your email for a message from CoinSimple and click on the relevant link.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Congratulations! You can now start receiving bitcoin directly with your Electrum deterministic wallet.&lt;/p&gt;</description>
-                <pubDate>Tue, 13 Jan 2015 19:04:00 -0600</pubDate>
+                <pubDate>Tue, 13 Jan 2015 19:04:00 -0500</pubDate>
                 <link>http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-electrum-wallet-using-coinsimple</link>
                 <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-electrum-wallet-using-coinsimple</guid>
                 
@@ -447,7 +497,7 @@ Right-click on the first address, and press “Copy to Clipboard”
                 <title>Will CoinSimple integrate PayPal or Stripe payments?</title>
                 <description>&lt;p&gt;We at CoinSimple believe that the future of payments is decentralized and peer-to-peer. We also believe that the centralized payment processor space is well served, and increasingly crowded. Because of that we have decided to focus our limited resources on developing products for the cryptocurrency space.&lt;/p&gt;
 &lt;p&gt;What are your options if you are a merchant and want to provide both a decentralized solution (CoinSimple) and a centralized solution like PayPal or Stripe? There are several options but the one that we have found easiest to work with are a combination of Wordpress for your e-commerce store, WooCommerce for the centralized payments, and the &lt;a href=&quot;https://github.com/coinsimple/coinsimple-woocommerce&quot;&gt;CoinSimple WooCommerce plugin&lt;/a&gt; for the decentralized solutions. See a demo of such a set up, without the PayPal integration, &lt;a href=&quot;http://woocommerce.coinsimple.com&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
-                <pubDate>Sun, 11 Jan 2015 06:13:25 -0600</pubDate>
+                <pubDate>Sun, 11 Jan 2015 07:13:25 -0500</pubDate>
                 <link>http://coinsimple.com/faq/will-coinsimple-integrate-paypal-or-stripe-payments</link>
                 <guid isPermaLink="true">http://coinsimple.com/faq/will-coinsimple-integrate-paypal-or-stripe-payments</guid>
                 
@@ -461,43 +511,9 @@ Right-click on the first address, and press “Copy to Clipboard”
             <item>
                 <title>Who has funded CoinSimple?</title>
                 <description>&lt;p&gt;Initial funding for CoinSimple was provided by &lt;a href=&quot;http://seedco.in&quot;&gt;SeedCoin&lt;/a&gt;, the world’s first seed-stage Bitcoin startup virtual incubator. Additional funding has been provided by a Hong-Kong based private investor.&lt;/p&gt;</description>
-                <pubDate>Sun, 11 Jan 2015 06:13:25 -0600</pubDate>
+                <pubDate>Sun, 11 Jan 2015 07:13:25 -0500</pubDate>
                 <link>http://coinsimple.com/faq/who-has-funded-coinsimple</link>
                 <guid isPermaLink="true">http://coinsimple.com/faq/who-has-funded-coinsimple</guid>
-                
-                
-                    <category>faq</category>
-                
-                    <category>a closer look at coinsimple</category>
-                
-            </item>
-        
-            <item>
-                <title>How does CoinSimple make money?</title>
-                <description>&lt;p&gt;CoinSimple is currently on its beta testing stage and offers its services for free. After the beta stage is over CoinSimple will operate on the subscription model. We will charge our merchants between $30-$300/month based on volume and features and there will always be a free version of the product.&lt;/p&gt;</description>
-                <pubDate>Sun, 11 Jan 2015 06:13:25 -0600</pubDate>
-                <link>http://coinsimple.com/faq/how-does-coinsimple-make-money</link>
-                <guid isPermaLink="true">http://coinsimple.com/faq/how-does-coinsimple-make-money</guid>
-                
-                
-                    <category>faq</category>
-                
-                    <category>a closer look at coinsimple</category>
-                
-            </item>
-        
-            <item>
-                <title>Who is working on CoinSimple?</title>
-                <description>&lt;p&gt;&lt;strong&gt;Founder and CEO - Nikos Bentenitis&lt;/strong&gt;: Nikos holds a Ph.D. in Physical Chemistry from Rensselaer Polytechnic Institute (RPI) and a B.S. in Chemical Engineering from the National Technical University of Athens, Greece. As a university professor, Nikos held teaching and research appointments in universities of New York, Texas, and Ecuador. And as a researcher with skills in statistical analysis, geographic information systems and computer simulations, he has managed several multi-institution, multi-country collaborations, published peer-reviewed manuscripts, given invited talks, and reviewed textbooks and articles for peer-reviewed research journals.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;CTO - Gabriel Manricks&lt;/strong&gt;: Gabriel has extensive experience in several computing languages including PHP (developing in pure PHP and contributing to the Slim open-source framework for PHP,) JavaScript (developing the Sails framework and having published a book on the Meteor framework,) and CSS (contributing to the Jeet framework.) Gabriel is a frequent contributor to NETTUTS, the extremely popular site aimed at web developers and designers that offers tutorials and articles on web technologies. Gabriel is also heavily involved with Koding, the developer community and cloud development environment where developers come together and code in the browser. Gabriel is currently working towards his software engineering degree at the Shenkar College of Engineering and Design in Israel.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Technical Advisor - Andreas M. Antonopoulos&lt;/strong&gt;: Former founding partner of Nemertes Research, Andreas is a broad-reaching technologist, who is well versed in many technology subjects. He is a serial tech entrepreneur, having launched businesses in London, New York, and California. With experience ranging from hardware and electronics to high level business and financial systems technology consulting and decades as CTO/CIO/CSO in many companies, he combines authority with deep knowledge. His many areas of expertise include Bitcoin, crypto-currencies, Information Security, Cryptography, Cloud Computing, Data Centers, Linux, Open Source and robotics software development. As a bitcoin entrepreneur, Andreas has founded three businesses and launched several community open-source projects. He often writes articles and blog posts on bitcoin, he is a permanent host on Let’s Talk Bitcoin and he is a prolific public speaker at technology events.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Design - Jon Myers&lt;/strong&gt;: Jon is the co-founder of JUFTi games (makers of the iPhone game Cornhole All-Stars), a founding partner for DOmedia (marketplace for alternative, traditional and digital out-of-home media), and the founder of the consulting firm Green Myers with high-caliber customers from all over the world. Jon is an expert in UI/UX design and has worked in the user interface design for big-data DNA analysis aimed at human identification.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Business Development - Jeff Root&lt;/strong&gt;: Jeff is the founder of Rootfin, LLC - an internet marketing company in the life insurance industry. Jeff has been developing successful sales and internet marketing strategies since he graduated college at San Diego State University. Beyond growing his own companies, he consults with other agencies on building their life insurance businesses online and is developing new technologies to move the industry forward.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Business Development - Eddy Travia&lt;/strong&gt;: Eddy Travia is the founder of Seedcoin, a global Bitcoin startup virtual incubator currently helping eight seed-stage Bitcoin startups in the development of their cryptocurrency services and products around the world. Seedcoin startups include wallets, bitcoin exchanges, trading platforms, crypto payment processors and software companies. Eddy has worked in graduate management education in Europe for 12 years prior to moving to Shanghai in 2004 to lead the Chinese arm of a European private equity fund. He completed the Stanford Financial Engineering program and managed VC investments in Hong Kong until he discovered Bitcoin and decided to focus on Bitcoin-centric startups and the potential of these firms to transform the worlds of finance, payments and remittances.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Legal and Corporate Governance - Pamela Morgan&lt;/strong&gt;: Pamela Morgan is an attorney, educator, and entrepreneur. Beyond her crypto-currency friendly law practice, where she advises start-ups and established organizations within the bitcoin space, she is working on projects related to smart law, smart contracts, and using blockchain technology to reduce risk and uncertainty in business and legal settings. She works as a consultant for a number of companies on corporate structure, governance, and with executive teams to facilitate strategic planning. An accomplished public speaker and educator, she speaks at conferences around the world on entrepreneurship, teaching, and smart law. Additionally, Pamela proudly serves as a Board Member of She-Crew, a Chicago-based girls empowerment organization, and the College Cryptocurrency Network, an international student organization whose mission is to foster bitcoin and promote crypto-currency education in colleges and universities worldwide.&lt;/p&gt;</description>
-                <pubDate>Sun, 11 Jan 2015 06:13:25 -0600</pubDate>
-                <link>http://coinsimple.com/faq/who-is-working-on-coinsimple</link>
-                <guid isPermaLink="true">http://coinsimple.com/faq/who-is-working-on-coinsimple</guid>
                 
                 
                     <category>faq</category>
