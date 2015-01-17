@@ -5,9 +5,30 @@
         <description>CoinSimple - Full Bitcoin e-Commerce, Direct to Wallet</description>
         <link>http://coinsimple.com/</link>
         <atom:link href="http://coinsimple.com/feed.xml" rel="self" type="application/rss+xml" />
-        <pubDate>Fri, 16 Jan 2015 09:39:57 -0500</pubDate>
-        <lastBuildDate>Fri, 16 Jan 2015 09:39:57 -0500</lastBuildDate>
+        <pubDate>Sat, 17 Jan 2015 08:34:10 -0500</pubDate>
+        <lastBuildDate>Sat, 17 Jan 2015 08:34:10 -0500</lastBuildDate>
         <generator>Jekyll v2.5.3</generator>
+        
+            <item>
+                <title>CoinSimple and MeXBT working to integrate their platforms</title>
+                <description>&lt;p&gt;&lt;strong&gt;Miami, January 17, 2015&lt;/strong&gt;: Hong Kong-based e-commerce platform CoinSimple and meXBT, one of Latin America’s leading Bitcoin exchanges will integrate to give their customers the best of both worlds. On behalf of the two Seedcoin-backed startups, CoinSimple Founder and CEO Nikos Bentenitis and meXBT Founder and CEO Gabriel Miron announced the news today during The North American Bitcoin Conference.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;p&gt;Under the agreement, CoinSimple clients will be able to use meXBT’s bitcoin prices and exchange services, and meXBT clients will be able to create fully functioning CoinSimple accounts in a few clicks. Furthermore, the MeXBT-CoinSimple integration will allow customers of meXBT to use the CoinSimple web app to issue invoices for services; the CoinSimple Wordpress eCommerce, WooCommerce and Magento plugins to sell products through their online stores; and the “Pay in Bitcoin” buttons on any web page to accept donations or even sell individual products.&lt;/p&gt;
+&lt;p&gt;“We are looking forward to working with CoinSimple to expand our merchant offerings in Latin America, and to continue driving bitcoin adoption in the region”, said Miron.&lt;/p&gt;
+&lt;p&gt;“We are excited to partner with meXBT and expand our services and white-label merchant processing to Mexico and Latin America,” said Bentenitis.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About meXBT.com&lt;/strong&gt;: Providing digital currencies for serious traders and simple enough for beginners, meXBT’s goal is to provide the best and most secure service to traders of digital currencies. meXBT is combining state-of-the-art technology with a rock solid legal and fiscal structure on a single platform called meXBT.com, the ‘Crypto Exchange of the Americas,’ and the place to be when exchanging cryptos. &lt;a href=&quot;http://www.mexbt.com&quot;&gt;www.mexbt.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About CoinSimple&lt;/strong&gt;: CoinSimple provides “Full Bitcoin e-Commerce, Direct to Wallet”. “Full Bitcoin e-Commerce” because it provides sophisticated merchant processing that includes multiple currencies, customer analytics, unique bitcoin addresses per transaction, accounting, invoices, email notifications and plugins for e-Commerce platforms (Wordpress, WooCommerce, Magento etc.) “Direct to wallet” because it allows full control of funds, privacy, deterministic wallets, choice of price source, ability to convert bitcoin at the exchange of choice. For more information about CoinSimple, please visit &lt;a href=&quot;http://coinsimple.com&quot;&gt;CoinSimple.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About Seedcoin&lt;/strong&gt;: Seedcoin is the world’s first seed-stage Bitcoin startup virtual incubator. Seedcoin’s objective is to invest in the creative entrepreneurs of the cryptocurrency and blockchain economy and help them develop the future services, products and applications re-shaping the way we interact with money on a daily basis. Visit &lt;a href=&quot;http://www.seedco.in&quot;&gt;www.seedco.in&lt;/a&gt; for more information.&lt;/p&gt;</description>
+                <pubDate>Sat, 17 Jan 2015 05:00:00 -0500</pubDate>
+                <link>http://coinsimple.com/blog/coinsimple-and-mexbt-partner-to-integrate-their-platforms</link>
+                <guid isPermaLink="true">http://coinsimple.com/blog/coinsimple-and-mexbt-partner-to-integrate-their-platforms</guid>
+                
+                
+                    <category>blog</category>
+                
+                    <category>press release</category>
+                
+            </item>
         
             <item>
                 <title>How can I use CoinSimple to issue invoices and send them via email?</title>
@@ -505,20 +526,6 @@ Right-click on the first address, and press “Copy to Clipboard”
                     <category>faq</category>
                 
                     <category>coinsimple basics</category>
-                
-            </item>
-        
-            <item>
-                <title>Who has funded CoinSimple?</title>
-                <description>&lt;p&gt;Initial funding for CoinSimple was provided by &lt;a href=&quot;http://seedco.in&quot;&gt;SeedCoin&lt;/a&gt;, the world’s first seed-stage Bitcoin startup virtual incubator. Additional funding has been provided by a Hong-Kong based private investor.&lt;/p&gt;</description>
-                <pubDate>Sun, 11 Jan 2015 07:13:25 -0500</pubDate>
-                <link>http://coinsimple.com/faq/who-has-funded-coinsimple</link>
-                <guid isPermaLink="true">http://coinsimple.com/faq/who-has-funded-coinsimple</guid>
-                
-                
-                    <category>faq</category>
-                
-                    <category>a closer look at coinsimple</category>
                 
             </item>
         
