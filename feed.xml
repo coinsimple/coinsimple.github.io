@@ -5,8 +5,8 @@
         <description>CoinSimple - Full Bitcoin e-Commerce, Direct to Wallet</description>
         <link>http://coinsimple.com/</link>
         <atom:link href="http://coinsimple.com/feed.xml" rel="self" type="application/rss+xml" />
-        <pubDate>Sun, 18 Jan 2015 09:54:49 -0500</pubDate>
-        <lastBuildDate>Sun, 18 Jan 2015 09:54:49 -0500</lastBuildDate>
+        <pubDate>Tue, 20 Jan 2015 11:16:53 -0600</pubDate>
+        <lastBuildDate>Tue, 20 Jan 2015 11:16:53 -0600</lastBuildDate>
         <generator>Jekyll v2.5.3</generator>
         
             <item>
@@ -19,7 +19,7 @@
 &lt;p&gt;&lt;strong&gt;About meXBT.com&lt;/strong&gt;: Providing digital currencies for serious traders and simple enough for beginners, meXBT’s goal is to provide the best and most secure service to traders of digital currencies. meXBT is combining state-of-the-art technology with a rock solid legal and fiscal structure on a single platform called meXBT.com, the ‘Crypto Exchange of the Americas,’ and the place to be when exchanging cryptos. &lt;a href=&quot;http://www.mexbt.com&quot;&gt;www.mexbt.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;About CoinSimple&lt;/strong&gt;: CoinSimple provides “Full Bitcoin e-Commerce, Direct to Wallet”. “Full Bitcoin e-Commerce” because it provides sophisticated merchant processing that includes multiple currencies, customer analytics, unique bitcoin addresses per transaction, accounting, invoices, email notifications and plugins for e-Commerce platforms (Wordpress, WooCommerce, Magento etc.) “Direct to wallet” because it allows full control of funds, privacy, deterministic wallets, choice of price source, ability to convert bitcoin at the exchange of choice. For more information about CoinSimple, please visit &lt;a href=&quot;http://coinsimple.com&quot;&gt;CoinSimple.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;About Seedcoin&lt;/strong&gt;: Seedcoin is the world’s first seed-stage Bitcoin startup virtual incubator. Seedcoin’s objective is to invest in the creative entrepreneurs of the cryptocurrency and blockchain economy and help them develop the future services, products and applications re-shaping the way we interact with money on a daily basis. Visit &lt;a href=&quot;http://www.seedco.in&quot;&gt;www.seedco.in&lt;/a&gt; for more information.&lt;/p&gt;</description>
-                <pubDate>Sat, 17 Jan 2015 05:00:00 -0500</pubDate>
+                <pubDate>Sat, 17 Jan 2015 04:00:00 -0600</pubDate>
                 <link>http://coinsimple.com/blog/coinsimple-and-mexbt-partner-to-integrate-their-platforms</link>
                 <guid isPermaLink="true">http://coinsimple.com/blog/coinsimple-and-mexbt-partner-to-integrate-their-platforms</guid>
                 
@@ -48,7 +48,7 @@
 &lt;p&gt;You can also, optionally, choose a discount or to make your invoice &lt;em&gt;recurring&lt;/em&gt;, on the same day of every month, or every a certain number of days. Recurring invoices will be sent perpetually, or for a certain number of times.&lt;/p&gt;
 &lt;h2 id=&quot;save-the-invoice-and-select-delivery-options&quot;&gt;2. Save the invoice and select delivery options&lt;/h2&gt;
 &lt;p&gt;At this point, you can send your invoice via email, review it, edit it, or delete it.&lt;/p&gt;</description>
-                <pubDate>Fri, 16 Jan 2015 18:57:24 -0500</pubDate>
+                <pubDate>Fri, 16 Jan 2015 17:57:24 -0600</pubDate>
                 <link>http://coinsimple.com/support/how-can-i-use-coinsimple-to-issue-invoices-and-send-them-via-email</link>
                 <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-use-coinsimple-to-issue-invoices-and-send-them-via-email</guid>
                 
@@ -69,7 +69,7 @@
 &lt;p&gt;The app will automatically lead you to a page to set up a new business. (In order to create an invoice, you need to first create a business, that is why, the app will not let you move to any other part of the site, before you set up a business.) In the form that appears, enter the name of your business and its description. &lt;em&gt;Both the name and description of your business appear in the invoices that you send to your customers, so choose them appropriately&lt;/em&gt;. Also, enter the currency that you use most commonly for your invoices (you can change that later and even for every invoice that you issue). Finally, enter the source of the bitcoin price that you will most commonly use for your invoices (again, you can change the source later, and for every invoice, if you like.) After you select whether you want to receive emails when you create a new invoice and when you get paid, you are done.&lt;/p&gt;
 &lt;h2 id=&quot;connect-your-wallet-or-payment-processor&quot;&gt;3. Connect your wallet or payment processor&lt;/h2&gt;
 &lt;p&gt;The app will now lead you to a page to connect your wallet or your existing bitcoin processor account. (In order to get paid for your invoices, you will need to have a wallet where the funds will be directed – CoinSimple &lt;strong&gt;does not offer a wallet service&lt;/strong&gt;. That is why, the app will not let you move to any other part of the site, if you don’t set up wallet.) These support pages explain how you can connect your &lt;a href=&quot;http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-electrum-wallet-using-coinsimple&quot;&gt;Electrum&lt;/a&gt;, &lt;a href=&quot;http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-armory-wallet-using-coinsimple&quot;&gt;Armory&lt;/a&gt;, &lt;a href=&quot;http://coinsimple.com/support/how-can-i-accept-bitcoin-to-my-trezor-wallet-with-coinsimple&quot;&gt;Trezor&lt;/a&gt;, or any &lt;a href=&quot;http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-a-bitcoin-address-using-coinsimple&quot;&gt;bitcoin address&lt;/a&gt;. At this point you can add additional wallets and bitcoin payment processors to your business to give yourself more flexibility.&lt;/p&gt;</description>
-                <pubDate>Fri, 16 Jan 2015 18:57:24 -0500</pubDate>
+                <pubDate>Fri, 16 Jan 2015 17:57:24 -0600</pubDate>
                 <link>http://coinsimple.com/support/how-can-i-set-up-an-account-with-coinsimple</link>
                 <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-set-up-an-account-with-coinsimple</guid>
                 
@@ -155,7 +155,7 @@ document.write(&#39;&lt;a h&#39;+&#39;ref&#39;+&#39;=&quot;ma&#39;+&#39;ilto&#39
 &lt;li&gt;Screenshot of error messages, if any&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-                <pubDate>Tue, 13 Jan 2015 20:52:00 -0500</pubDate>
+                <pubDate>Tue, 13 Jan 2015 20:52:00 -0600</pubDate>
                 <link>http://coinsimple.com/support/how-can-i-use-coinsimple-with-woocommerce</link>
                 <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-use-coinsimple-with-woocommerce</guid>
                 
@@ -247,7 +247,7 @@ document.write(&#39;&lt;a h&#39;+&#39;ref&#39;+&#39;=&quot;ma&#39;+&#39;ilto&#39
 &lt;li&gt;Screenshot of error messages, if any&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-                <pubDate>Tue, 13 Jan 2015 20:52:00 -0500</pubDate>
+                <pubDate>Tue, 13 Jan 2015 20:52:00 -0600</pubDate>
                 <link>http://coinsimple.com/support/how-can-i-use-coinsimple-with-wordpress-ecommerce</link>
                 <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-use-coinsimple-with-wordpress-ecommerce</guid>
                 
@@ -311,7 +311,7 @@ document.write(&#39;&lt;a h&#39;+&#39;ref&#39;+&#39;=&quot;ma&#39;+&#39;ilto&#39
 &lt;/ol&gt;
 &lt;p&gt;Congratulations! You can now start receiving bitcoin directly to your Blockchain.info wallet.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;#example-wallets&quot;&gt;Back To Top&lt;/a&gt;&lt;/p&gt;</description>
-                <pubDate>Tue, 13 Jan 2015 19:05:00 -0500</pubDate>
+                <pubDate>Tue, 13 Jan 2015 19:05:00 -0600</pubDate>
                 <link>http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-a-bitcoin-address-using-coinsimple</link>
                 <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-a-bitcoin-address-using-coinsimple</guid>
                 
@@ -379,7 +379,7 @@ Click on the “Export Watching-Only Copy” button on the right of the screen.
 &lt;li&gt;Return to the CoinSimple website and paste the key in the “Enter the first address” field above.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Congratulations! You can now start receiving bitcoin directly with your Trezor hierarchical deterministic wallet.&lt;/p&gt;</description>
-                <pubDate>Tue, 13 Jan 2015 19:05:00 -0500</pubDate>
+                <pubDate>Tue, 13 Jan 2015 19:05:00 -0600</pubDate>
                 <link>http://coinsimple.com/support/how-can-i-accept-bitcoin-to-my-trezor-wallet-with-coinsimple</link>
                 <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-accept-bitcoin-to-my-trezor-wallet-with-coinsimple</guid>
                 
@@ -442,7 +442,7 @@ Right-click on the first address, and press “Copy to Clipboard”.
 &lt;li&gt;You will need to verify the addition of this Armory wallet. So, check your email for a message from CoinSimple and click on the relevant link.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Congratulations! You can now start receiving bitcoin directly with your Armory deterministic wallet.&lt;/p&gt;</description>
-                <pubDate>Tue, 13 Jan 2015 19:05:00 -0500</pubDate>
+                <pubDate>Tue, 13 Jan 2015 19:05:00 -0600</pubDate>
                 <link>http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-armory-wallet-using-coinsimple</link>
                 <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-armory-wallet-using-coinsimple</guid>
                 
@@ -503,7 +503,7 @@ Right-click on the first address, and press “Copy to Clipboard”
 &lt;li&gt;You will need to verify the addition of this Electrum wallet. So, check your email for a message from CoinSimple and click on the relevant link.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Congratulations! You can now start receiving bitcoin directly with your Electrum deterministic wallet.&lt;/p&gt;</description>
-                <pubDate>Tue, 13 Jan 2015 19:04:00 -0500</pubDate>
+                <pubDate>Tue, 13 Jan 2015 19:04:00 -0600</pubDate>
                 <link>http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-electrum-wallet-using-coinsimple</link>
                 <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-electrum-wallet-using-coinsimple</guid>
                 
@@ -518,7 +518,7 @@ Right-click on the first address, and press “Copy to Clipboard”
                 <title>Will CoinSimple integrate PayPal or Stripe payments?</title>
                 <description>&lt;p&gt;We at CoinSimple believe that the future of payments is decentralized and peer-to-peer. We also believe that the centralized payment processor space is well served, and increasingly crowded. Because of that we have decided to focus our limited resources on developing products for the cryptocurrency space.&lt;/p&gt;
 &lt;p&gt;What are your options if you are a merchant and want to provide both a decentralized solution (CoinSimple) and a centralized solution like PayPal or Stripe? There are several options but the one that we have found easiest to work with are a combination of Wordpress for your e-commerce store, WooCommerce for the centralized payments, and the &lt;a href=&quot;https://github.com/coinsimple/coinsimple-woocommerce&quot;&gt;CoinSimple WooCommerce plugin&lt;/a&gt; for the decentralized solutions. See a demo of such a set up, without the PayPal integration, &lt;a href=&quot;http://woocommerce.coinsimple.com&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
-                <pubDate>Sun, 11 Jan 2015 07:13:25 -0500</pubDate>
+                <pubDate>Sun, 11 Jan 2015 06:13:25 -0600</pubDate>
                 <link>http://coinsimple.com/faq/will-coinsimple-integrate-paypal-or-stripe-payments</link>
                 <guid isPermaLink="true">http://coinsimple.com/faq/will-coinsimple-integrate-paypal-or-stripe-payments</guid>
                 
