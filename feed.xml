@@ -5,9 +5,62 @@
         <description>CoinSimple - Full Bitcoin e-Commerce, Direct to Wallet</description>
         <link>http://coinsimple.com/</link>
         <atom:link href="http://coinsimple.com/feed.xml" rel="self" type="application/rss+xml" />
-        <pubDate>Tue, 20 Jan 2015 17:55:52 -0600</pubDate>
-        <lastBuildDate>Tue, 20 Jan 2015 17:55:52 -0600</lastBuildDate>
+        <pubDate>Tue, 20 Jan 2015 18:36:13 -0600</pubDate>
+        <lastBuildDate>Tue, 20 Jan 2015 18:36:13 -0600</lastBuildDate>
         <generator>Jekyll v2.5.3</generator>
+        
+            <item>
+                <title>How can I connect my GoCoin account with CoinSimple?</title>
+                <description>&lt;p&gt;In order to connect your GoCoin account with CoinSimple, you need to allow the CoinSimple application that we have set up at GoCoin.com to create invoices on your behalf. The process is interactive and it starts as soon as you press the “Connect” button for the GoCoin payment processor on the CoinSimple settings page.&lt;/p&gt;</description>
+                <pubDate>Tue, 20 Jan 2015 12:07:24 -0600</pubDate>
+                <link>http://coinsimple.com/support/how-can-i-connect-my-gocoin-account-with-coinsimple</link>
+                <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-connect-my-gocoin-account-with-coinsimple</guid>
+                
+                
+                    <category>support</category>
+                
+                    <category>using coinsimple</category>
+                
+            </item>
+        
+            <item>
+                <title>How can I connect my Coinbase account with CoinSimple?</title>
+                <description>&lt;p&gt;In order to connect your Coinbase account with CoinSimple, you need to allow the CoinSimple application that we have set up at Coinbase.com to create invoices on your behalf. The process is interactive and it starts as soon as you press the “Connect” button for the Coinbase payment processor on the CoinSimple settings page.&lt;/p&gt;</description>
+                <pubDate>Tue, 20 Jan 2015 12:07:24 -0600</pubDate>
+                <link>http://coinsimple.com/support/how-can-i-connect-my-coinbase-account-with-coinsimple</link>
+                <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-connect-my-coinbase-account-with-coinsimple</guid>
+                
+                
+                    <category>support</category>
+                
+                    <category>using coinsimple</category>
+                
+            </item>
+        
+            <item>
+                <title>How can I connect my BitPay account with CoinSimple?</title>
+                <description>&lt;p&gt;In order to use CoinSimple to integrate with the BitPay bitcoin payment processor, you need to copy your BitPay API key on your BitPay dashboard and enter it in CoinSimple. This guide explains how to do that.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;p&gt;Please follow these steps:&lt;/p&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;Go to &lt;a href=&quot;http://bitpay.com&quot;&gt;bitpay.com&lt;/a&gt; and sign in.&lt;/li&gt;
+&lt;li&gt;Go to &lt;a href=&quot;http://bitpay.com/api-keys&quot;&gt;bitpay.com/api-keys&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Click on the “Add New API Key” button.&lt;/li&gt;
+&lt;li&gt;(Optional) Click on the “Edit” button and in the memo field add the description “CoinSimple”.&lt;/li&gt;
+&lt;li&gt;Copy the “API Key ID”, that is a series of characters and numbers like gO0HWTAT9v3UJVP89kQNO2ZSpmmZcUzukr6EeuskER1.&lt;/li&gt;
+&lt;li&gt;Return to the BitPay page on the CoinSimple website. Paste the copied the key in the “API Key ID” field. Press “Submit”.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Congratulations! You can now start receiving bitcoin through BitPay, no developer was necessary.&lt;/p&gt;</description>
+                <pubDate>Tue, 20 Jan 2015 12:07:24 -0600</pubDate>
+                <link>http://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple</link>
+                <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple</guid>
+                
+                
+                    <category>support</category>
+                
+                    <category>using coinsimple</category>
+                
+            </item>
         
             <item>
                 <title>CoinSimple and MeXBT working to integrate their platforms</title>
@@ -376,7 +429,7 @@ Click on the “Export Watching-Only Copy” button on the right of the screen.
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;ol start=&quot;6&quot; type=&quot;1&quot;&gt;
-&lt;li&gt;Return to the CoinSimple website and paste the key in the “Enter the first address” field above.&lt;/li&gt;
+&lt;li&gt;Return to the CoinSimple website and paste the key in the “Enter the first address” field.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Congratulations! You can now start receiving bitcoin directly with your Trezor hierarchical deterministic wallet.&lt;/p&gt;</description>
                 <pubDate>Tue, 13 Jan 2015 19:05:00 -0600</pubDate>
@@ -387,145 +440,6 @@ Click on the “Export Watching-Only Copy” button on the right of the screen.
                     <category>support</category>
                 
                     <category>using coinsimple</category>
-                
-            </item>
-        
-            <item>
-                <title>How can I accept bitcoin directly to my Armory wallet using CoinSimple?</title>
-                <description>&lt;p&gt;In order to use CoinSimple to accept bitcoins directly to your Armory bitcoin wallet, you need to export your watching-only wallet file and the associated first receiving address from Armory. The first receiving address will be used by CoinSimple to verify that you have entered consistent information. This guide explains how to do that for version 0.92.3 of the Armory wallet.&lt;/p&gt;
-&lt;!--more--&gt;
-&lt;p&gt;If you experience problems with these instructions, please upgrade your wallet by visiting this &lt;a href=&quot;https://bitcoinarmory.org/download.html&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Follow these steps:&lt;/p&gt;
-&lt;ol type=&quot;1&quot;&gt;
-&lt;li&gt;Start Armory, click on your preferred wallet from “Available Wallets” and lick on the “Wallet Properties” button on the left.&lt;/li&gt;
-&lt;li&gt;A new “Wallet Properties” window will appear. Click on the “Export Watching-Only Copy” button on the right of the screen.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&quot;container&quot;&gt;
-&lt;img src=&quot;/media/armory/armory-0.92.3-button-export_watching_only_copy.png&quot; alt=&#39;Start Armory, click on your preferred wallet from &quot;Available Wallets&quot; and lick on the &quot;Wallet Properties&quot; button on the left. A new &quot;Wallet Properties&quot; window will appear. Click on the &quot;Export Watching-Only Copy&quot; button on the right of the screen.&#39;/&gt;
-&lt;div class=&quot;reference&quot;&gt;
-&lt;strong&gt;Armory Wallet Properties&lt;/strong&gt;
-&lt;p&gt;
-Click on the “Export Watching-Only Copy” button on the right of the screen.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;ol start=&quot;3&quot; type=&quot;1&quot;&gt;
-&lt;li&gt;In the “Watch-Only Wallet Export” window that appears, click on the “Export Watching-Only Wallet File” in the middle of the window.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&quot;container&quot;&gt;
-&lt;img src=&quot;/media/armory/armory-0.92.3-screen-watch_only_wallet_export.png&quot; alt=&#39;In the &quot;Watch-Only Wallet Export&quot; window that appears, click on the &quot;Export Watching-Only Wallet File&quot; in the middle of the window.&#39;/&gt;
-&lt;div class=&quot;reference&quot;&gt;
-&lt;strong&gt;Armory Wallet Properties&lt;/strong&gt;
-&lt;p&gt;
-Click on the “Export Watching-Only Wallet File” in the middle of the window.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;ol start=&quot;4&quot; type=&quot;1&quot;&gt;
-&lt;li&gt;Save file with the “.watchonly.wallet” extension on your Desktop. Press “Done” in the “Watch-Only Wallet Export” window.&lt;/li&gt;
-&lt;li&gt;Go to the CoinSimple website, navigate to “Settings”, “Wallets and Processors”, and click on “Armory”.&lt;/li&gt;
-&lt;li&gt;In the form that appears, press the “Choose File” button and upload the “.watchonly.wallet” file.&lt;/li&gt;
-&lt;li&gt;Return to Armory. In the “Addresses in Wallet” section of the “Wallet Properties” window, you will see a list of addresses. Right-click on the first address, and press “Copy to Clipboard”.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&quot;container&quot;&gt;
-&lt;img src=&quot;/media/armory/armory-0.92.3-action-copy-first_receiving_address.png&quot; alt=&#39;In the &quot;Addresses in Wallet&quot; section of the &quot;Wallet Properties&quot; window, you will see a list of addresses. Right-click on the first address, and press &quot;Copy to Clipboard&quot;.&#39;/&gt;
-&lt;div class=&quot;reference&quot;&gt;
-&lt;strong&gt;Armory Wallet Addresses&lt;/strong&gt;
-&lt;p&gt;
-Right-click on the first address, and press “Copy to Clipboard”.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;ol start=&quot;8&quot; type=&quot;1&quot;&gt;
-&lt;li&gt;Return to the Armory page on the CoinSimple website. Paste the copied the key in the “For verification, paste the first address of your wallet” field.&lt;/li&gt;
-&lt;li&gt;Click “Submit”&lt;/li&gt;
-&lt;li&gt;You will need to verify the addition of this Armory wallet. So, check your email for a message from CoinSimple and click on the relevant link.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Congratulations! You can now start receiving bitcoin directly with your Armory deterministic wallet.&lt;/p&gt;</description>
-                <pubDate>Tue, 13 Jan 2015 19:05:00 -0600</pubDate>
-                <link>http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-armory-wallet-using-coinsimple</link>
-                <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-armory-wallet-using-coinsimple</guid>
-                
-                
-                    <category>support</category>
-                
-                    <category>using coinsimple</category>
-                
-            </item>
-        
-            <item>
-                <title>How can I accept bitcoin directly to my Electrum wallet using CoinSimple?</title>
-                <description>&lt;p&gt;In order to use CoinSimple to accept bitcoins directly to your Electrum bitcoin wallet, you need to extract your master public key and first receiving address from Electrum. The first receiving address will be used by CoinSimple to verify that you have entered consistent information. This guide explains how to do that for version 1.9.8 of the Electrum wallet.&lt;/p&gt;
-&lt;!--more--&gt;
-&lt;p&gt;If you experience problems with these instructions, please upgrade your wallet by visiting this &lt;a href=&quot;https://electrum.org/download.html&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Follow these steps:&lt;/p&gt;
-&lt;ol type=&quot;1&quot;&gt;
-&lt;li&gt;Start Electrum and click on the “Wallet” menu and then on “Master Public Key”.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&quot;container&quot;&gt;
-&lt;img src=&quot;/media/electrum/electrum-1.9.8-menu-wallet-master_public_key.png&quot; alt=&quot;Start Electrum and click on the &#39;Wallet&#39; menu and then on &#39;Master Public Key&#39;.&quot; /&gt;
-&lt;div class=&quot;reference&quot;&gt;
-&lt;strong&gt;Electrum Menu: Master Public Key&lt;/strong&gt;
-&lt;p&gt;
-Click on the “Wallet” menu and then on “Master Public Key”
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;ol start=&quot;2&quot; type=&quot;1&quot;&gt;
-&lt;li&gt;A “Master Public Key” window will appear. Copy the long series of letters and numbers shown on the left and press “Close”.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&quot;container&quot;&gt;
-&lt;img src=&quot;/media/electrum/electrum-1.9.8-action-copy-master_public_key.png&quot; alt=&#39;A &quot;Master Public Key&quot; window will appear. Copy the long series of letters and numbers shown on the left and press &quot;Close&quot;.&#39; /&gt;
-&lt;div class=&quot;reference&quot;&gt;
-&lt;strong&gt;Your Electrum master public key&lt;/strong&gt;
-&lt;p&gt;
-Copy the long series of letters and numbers shown on the left and press “Close”
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;ol start=&quot;3&quot; type=&quot;1&quot;&gt;
-&lt;li&gt;Go to the CoinSimple website, navigate to “Settings”, “Wallets and Processors”, and click on “Electrum”. In the form that appears, paste the copied the key in the “Enter your Electrum master public key” field.&lt;/li&gt;
-&lt;li&gt;Return to Electrum and click on the “Receive” tab.&lt;/li&gt;
-&lt;li&gt;In the “Receiving” section of the window that opens, you will see a list of addresses. Right-click on the first address, and press “Copy to Clipboard”.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&quot;container&quot;&gt;
-&lt;img src=&quot;/media/electrum/electrum-1.9.8-action-copy-first_receiving_address.png&quot; alt=&#39;In the &quot;Receiving&quot; section of the window that opens, you will see a list of addresses. Right-click on the first address, and press &quot;Copy to Clipboard&quot;.&#39; /&gt;
-&lt;div class=&quot;reference&quot;&gt;
-&lt;strong&gt;Your first Electrum receiving address&lt;/strong&gt;
-&lt;p&gt;
-Right-click on the first address, and press “Copy to Clipboard”
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;ol start=&quot;6&quot; type=&quot;1&quot;&gt;
-&lt;li&gt;Return to the Electrum page on the CoinSimple website. Paste the copied the key in the “For verification, paste the first address of your wallet” field.&lt;/li&gt;
-&lt;li&gt;Click “Submit”&lt;/li&gt;
-&lt;li&gt;You will need to verify the addition of this Electrum wallet. So, check your email for a message from CoinSimple and click on the relevant link.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Congratulations! You can now start receiving bitcoin directly with your Electrum deterministic wallet.&lt;/p&gt;</description>
-                <pubDate>Tue, 13 Jan 2015 19:04:00 -0600</pubDate>
-                <link>http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-electrum-wallet-using-coinsimple</link>
-                <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-electrum-wallet-using-coinsimple</guid>
-                
-                
-                    <category>support</category>
-                
-                    <category>using coinsimple</category>
-                
-            </item>
-        
-            <item>
-                <title>Will CoinSimple integrate PayPal or Stripe payments?</title>
-                <description>&lt;p&gt;We at CoinSimple believe that the future of payments is decentralized and peer-to-peer. We also believe that the centralized payment processor space is well served, and increasingly crowded. Because of that we have decided to focus our limited resources on developing products for the cryptocurrency space.&lt;/p&gt;
-&lt;p&gt;What are your options if you are a merchant and want to provide both a decentralized solution (CoinSimple) and a centralized solution like PayPal or Stripe? There are several options but the one that we have found easiest to work with are a combination of Wordpress for your e-commerce store, WooCommerce for the centralized payments, and the &lt;a href=&quot;https://github.com/coinsimple/coinsimple-woocommerce&quot;&gt;CoinSimple WooCommerce plugin&lt;/a&gt; for the decentralized solutions. See a demo of such a set up, without the PayPal integration, &lt;a href=&quot;http://woocommerce.coinsimple.com&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
-                <pubDate>Sun, 11 Jan 2015 06:13:25 -0600</pubDate>
-                <link>http://coinsimple.com/faq/will-coinsimple-integrate-paypal-or-stripe-payments</link>
-                <guid isPermaLink="true">http://coinsimple.com/faq/will-coinsimple-integrate-paypal-or-stripe-payments</guid>
-                
-                
-                    <category>faq</category>
-                
-                    <category>coinsimple basics</category>
                 
             </item>
         
