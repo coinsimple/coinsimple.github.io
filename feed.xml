@@ -5,8 +5,8 @@
         <description>CoinSimple - Full Bitcoin e-Commerce, Direct to Wallet</description>
         <link>http://coinsimple.com/</link>
         <atom:link href="http://coinsimple.com/feed.xml" rel="self" type="application/rss+xml" />
-        <pubDate>Fri, 30 Jan 2015 13:50:31 -0600</pubDate>
-        <lastBuildDate>Fri, 30 Jan 2015 13:50:31 -0600</lastBuildDate>
+        <pubDate>Thu, 05 Feb 2015 15:09:12 -0600</pubDate>
+        <lastBuildDate>Thu, 05 Feb 2015 15:09:12 -0600</lastBuildDate>
         <generator>Jekyll v2.5.3</generator>
         
             <item>
@@ -154,19 +154,19 @@
 &lt;li&gt;Log into the WordPress dashboard and click “WooCommerce” and then “Settings”.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;figure&gt;
-&lt;img src=&quot;/media/woocommerce/woocommerce-plugin-action-settings-store.png&quot; alt=&quot;Select WooCommerce then Settings&quot; /&gt;&lt;figcaption&gt;Select “WooCommerce” then “Settings”&lt;/figcaption&gt;
+&lt;img src=&quot;/images/woocommerce/woocommerce-plugin-action-settings-store.png&quot; alt=&quot;Select WooCommerce then Settings&quot; /&gt;&lt;figcaption&gt;Select “WooCommerce” then “Settings”&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;ol start=&quot;2&quot; type=&quot;1&quot;&gt;
 &lt;li&gt;In the screen that appears click on “Checkout” and then “CoinSimple”.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;figure&gt;
-&lt;img src=&quot;/media/woocommerce/woocommerce-plugin-screen-payments-coinsimple-select.png&quot; alt=&quot;WooCommerce checkout settings page&quot; /&gt;&lt;figcaption&gt;WooCommerce checkout settings page&lt;/figcaption&gt;
+&lt;img src=&quot;/images/woocommerce/woocommerce-plugin-screen-payments-coinsimple-select.png&quot; alt=&quot;WooCommerce checkout settings page&quot; /&gt;&lt;figcaption&gt;WooCommerce checkout settings page&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;ol start=&quot;5&quot; type=&quot;1&quot;&gt;
 &lt;li&gt;Enter your CoinSimple.com business ID and API in the appropriate fields. Enter the URL of the page that your customers will be directed to after they make their payment.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;figure&gt;
-&lt;img src=&quot;/media/woocommerce/woocommerce-plugin-screen-payments-coinsimple-settings.png&quot; alt=&quot;Business ID, API key and callback URL&quot; /&gt;&lt;figcaption&gt;Business ID, API key and callback URL&lt;/figcaption&gt;
+&lt;img src=&quot;/images/woocommerce/woocommerce-plugin-screen-payments-coinsimple-settings.png&quot; alt=&quot;Business ID, API key and callback URL&quot; /&gt;&lt;figcaption&gt;Business ID, API key and callback URL&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;ol start=&quot;5&quot; type=&quot;1&quot;&gt;
 &lt;li&gt;Click “Save changes”.&lt;/li&gt;
@@ -240,25 +240,25 @@ document.write(&#39;&lt;a h&#39;+&#39;ref&#39;+&#39;=&quot;ma&#39;+&#39;ilto&#39
 &lt;li&gt;Log into the WordPress dashboard and click “Settings” and then “Store”.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;figure&gt;
-&lt;img src=&quot;/media/wpecommerce/wpecommerce-plugin-action-settings-store.png&quot; alt=&quot;Select Settings then Store&quot; /&gt;&lt;figcaption&gt;Select Settings then “Store”&lt;/figcaption&gt;
+&lt;img src=&quot;/images/wpecommerce/wpecommerce-plugin-action-settings-store.png&quot; alt=&quot;Select Settings then Store&quot; /&gt;&lt;figcaption&gt;Select Settings then “Store”&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;ol start=&quot;2&quot; type=&quot;1&quot;&gt;
 &lt;li&gt;In the screen that appears click on “Payments”.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;figure&gt;
-&lt;img src=&quot;/media/wpecommerce/wpecommerce-plugin-screen-payments-coinsimple.png&quot; alt=&quot;Payments with WP eCommerce&quot; /&gt;&lt;figcaption&gt;Payments with WP eCommerce&lt;/figcaption&gt;
+&lt;img src=&quot;/images/wpecommerce/wpecommerce-plugin-screen-payments-coinsimple.png&quot; alt=&quot;Payments with WP eCommerce&quot; /&gt;&lt;figcaption&gt;Payments with WP eCommerce&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;ol start=&quot;3&quot; type=&quot;1&quot;&gt;
 &lt;li&gt;Select the checkbox to the left of “Bitcoin Payments by CoinSimple” and click Settings below the CoinSimple payment option. Change the “Display Name” if desired.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;figure&gt;
-&lt;img src=&quot;/media/wpecommerce/wpecommerce-plugin-screen-payments-coinsimple-display_name.png&quot; alt=&quot;Bitcoin Payments by CoinSimple&quot; /&gt;&lt;figcaption&gt;Bitcoin Payments by CoinSimple&lt;/figcaption&gt;
+&lt;img src=&quot;/images/wpecommerce/wpecommerce-plugin-screen-payments-coinsimple-display_name.png&quot; alt=&quot;Bitcoin Payments by CoinSimple&quot; /&gt;&lt;figcaption&gt;Bitcoin Payments by CoinSimple&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;ol start=&quot;5&quot; type=&quot;1&quot;&gt;
 &lt;li&gt;Enter your CoinSimple.com business ID and API in the appropriate fields. Enter the URL of the page that your customers will be directed to after they make their payment. For WP e-Commerce, the default page is &lt;code&gt;http://yourwebsite.com/products-page/transaction-results/&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;figure&gt;
-&lt;img src=&quot;/media/wpecommerce/wpecommerce-plugin-screen-payments-coinsimple-settings.png&quot; alt=&quot;Business ID, API key and callback URL&quot; /&gt;&lt;figcaption&gt;Business ID, API key and callback URL&lt;/figcaption&gt;
+&lt;img src=&quot;/images/wpecommerce/wpecommerce-plugin-screen-payments-coinsimple-settings.png&quot; alt=&quot;Business ID, API key and callback URL&quot; /&gt;&lt;figcaption&gt;Business ID, API key and callback URL&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;ol start=&quot;5&quot; type=&quot;1&quot;&gt;
 &lt;li&gt;Click “Update”.&lt;/li&gt;
@@ -383,7 +383,7 @@ document.write(&#39;&lt;a h&#39;+&#39;ref&#39;+&#39;=&quot;ma&#39;+&#39;ilto&#39
 &lt;li&gt;Connect your Trezor hardware device to your computer and navigate to &lt;a href=&quot;http://mytrezor.com&quot;&gt;mytrezor.com&lt;/a&gt;. On the main screen, click on “Add Account” on the left.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class=&quot;container&quot;&gt;
-&lt;img src=&quot;/media/trezor/trezor-screen-create_new_account.png&quot; alt=&#39;Connect your Trezor hardware device to your computer, and navigate to mytrezor.com. On the main screen, click on &quot;Add Account&quot;.&#39;/&gt;
+&lt;img src=&quot;/images/trezor/trezor-screen-create_new_account.png&quot; alt=&#39;Connect your Trezor hardware device to your computer, and navigate to mytrezor.com. On the main screen, click on &quot;Add Account&quot;.&#39;/&gt;
 &lt;div class=&quot;reference&quot;&gt;
 &lt;strong&gt;MyTrezor.com Account Creation&lt;/strong&gt;
 &lt;p&gt;
@@ -395,7 +395,7 @@ Click on “Add Account” on the left
 &lt;li&gt;“Account 3” is created by the software and it can be seen on the left as in the image below. In this demo, we will use “Account 3” for payment processing. Click on the “Advanced details” button.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class=&quot;container&quot;&gt;
-&lt;img src=&quot;/media/trezor/trezor-screen-advanced_details.png&quot; alt=&#39;Connect your Trezor hardware device to your computer, and navigate to mytrezor.com. Click on the &quot;Advanced details&quot; button. &#39;/&gt;
+&lt;img src=&quot;/images/trezor/trezor-screen-advanced_details.png&quot; alt=&#39;Connect your Trezor hardware device to your computer, and navigate to mytrezor.com. Click on the &quot;Advanced details&quot; button. &#39;/&gt;
 &lt;div class=&quot;reference&quot;&gt;
 &lt;strong&gt;MyTrezor.com Main Screen&lt;/strong&gt;
 &lt;p&gt;
@@ -407,7 +407,7 @@ Click on the “Advanced details” button.
 &lt;li&gt;Find “Account 3” under the “Account public keys (XPUB)” section, and copy the long alphanumeric code that starts with “xpub” for “Account 3”.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class=&quot;container&quot;&gt;
-&lt;img src=&quot;/media/trezor/trezor-action-copy_xpub_key.png&quot; alt=&#39;Find the Account that you would like to use for payment processing and copy the long alphanumeric code that starts with &quot;xpub&quot;&#39;/&gt;
+&lt;img src=&quot;/images/trezor/trezor-action-copy_xpub_key.png&quot; alt=&#39;Find the Account that you would like to use for payment processing and copy the long alphanumeric code that starts with &quot;xpub&quot;&#39;/&gt;
 &lt;div class=&quot;reference&quot;&gt;
 &lt;strong&gt;Trezor account master public key&lt;/strong&gt;
 &lt;p&gt;
@@ -420,7 +420,7 @@ Copy the long alphanumeric code that starts with “xpub”
 &lt;li&gt;Return to the MyTrezor.com website and click on your Account on the left of the screen. Click on the “Receive” tab and copy the address that is shown that starts with “1”.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;div class=&quot;container&quot;&gt;
-&lt;img src=&quot;/media/trezor/trezor-action-copy_first_address.png&quot; alt=&#39;Return to the MyTrezor.com website and click on your Account on the left of the screen. Click on the &quot;Receive&quot; tab and copy the address that is shown that starts with &quot;1&quot;&#39;/&gt;
+&lt;img src=&quot;/images/trezor/trezor-action-copy_first_address.png&quot; alt=&#39;Return to the MyTrezor.com website and click on your Account on the left of the screen. Click on the &quot;Receive&quot; tab and copy the address that is shown that starts with &quot;1&quot;&#39;/&gt;
 &lt;div class=&quot;reference&quot;&gt;
 &lt;strong&gt;Trezor first receiving address&lt;/strong&gt;
 &lt;p&gt;

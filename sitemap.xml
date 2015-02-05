@@ -4,13 +4,13 @@
         <loc>
             http://coinsimple.com/blog/bitcoin-expert-andreas-m-antonopoulos-joins-coinsimple
         </loc>
-        <lastmod>2015-01-16T08:37:48-06:00</lastmod>
+        <lastmod>2015-02-05T14:22:52-06:00</lastmod>
     </url>
     <url>
         <loc>
             http://coinsimple.com/blog/coinsimple-present-at-the-north-american-bitcoin-conference
         </loc>
-        <lastmod>2015-01-16T08:33:45-06:00</lastmod>
+        <lastmod>2015-02-05T14:22:52-06:00</lastmod>
     </url>
     <url>
         <loc>http://coinsimple.com/support/bitcoin-for-ecommerce-merchants</loc>
@@ -22,11 +22,11 @@
     </url>
     <url>
         <loc>http://coinsimple.com/support/how-can-i-use-coinsimple-with-magento</loc>
-        <lastmod>2015-01-20T17:52:13-06:00</lastmod>
+        <lastmod>2015-02-05T14:24:05-06:00</lastmod>
     </url>
     <url>
         <loc>http://coinsimple.com/support/what-is-bitcoin</loc>
-        <lastmod>2015-01-20T17:52:13-06:00</lastmod>
+        <lastmod>2015-02-05T14:24:05-06:00</lastmod>
     </url>
     <url>
         <loc>http://coinsimple.com/faq/what-is-coinsimple</loc>
@@ -76,67 +76,67 @@
         <loc>
             http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-electrum-wallet-using-coinsimple
         </loc>
-        <lastmod>2015-01-20T17:52:13-06:00</lastmod>
+        <lastmod>2015-02-05T14:24:05-06:00</lastmod>
     </url>
     <url>
         <loc>
             http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-armory-wallet-using-coinsimple
         </loc>
-        <lastmod>2015-01-20T17:52:13-06:00</lastmod>
+        <lastmod>2015-02-05T14:24:05-06:00</lastmod>
     </url>
     <url>
         <loc>
             http://coinsimple.com/support/how-can-i-accept-bitcoin-to-my-trezor-wallet-with-coinsimple
         </loc>
-        <lastmod>2015-01-20T18:22:02-06:00</lastmod>
+        <lastmod>2015-02-05T14:24:05-06:00</lastmod>
     </url>
     <url>
         <loc>
             http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-a-bitcoin-address-using-coinsimple
         </loc>
-        <lastmod>2015-01-20T17:52:13-06:00</lastmod>
+        <lastmod>2015-02-05T14:24:05-06:00</lastmod>
     </url>
     <url>
         <loc>http://coinsimple.com/support/how-can-i-use-coinsimple-with-wordpress-ecommerce</loc>
-        <lastmod>2015-01-20T17:52:13-06:00</lastmod>
+        <lastmod>2015-02-05T14:24:05-06:00</lastmod>
     </url>
     <url>
         <loc>http://coinsimple.com/support/how-can-i-use-coinsimple-with-woocommerce</loc>
-        <lastmod>2015-01-20T17:52:13-06:00</lastmod>
+        <lastmod>2015-02-05T14:24:05-06:00</lastmod>
     </url>
     <url>
         <loc>http://coinsimple.com/support/how-can-i-set-up-an-account-with-coinsimple</loc>
-        <lastmod>2015-01-20T17:52:13-06:00</lastmod>
+        <lastmod>2015-02-05T14:24:05-06:00</lastmod>
     </url>
     <url>
         <loc>
             http://coinsimple.com/support/how-can-i-use-coinsimple-to-issue-invoices-and-send-them-via-email
         </loc>
-        <lastmod>2015-01-20T17:52:13-06:00</lastmod>
+        <lastmod>2015-02-05T14:24:05-06:00</lastmod>
     </url>
     <url>
         <loc>
             http://coinsimple.com/blog/coinsimple-and-mexbt-partner-to-integrate-their-platforms
         </loc>
-        <lastmod>2015-01-17T07:38:59-06:00</lastmod>
+        <lastmod>2015-02-05T14:22:52-06:00</lastmod>
     </url>
     <url>
         <loc>
             http://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple
         </loc>
-        <lastmod>2015-01-20T18:23:48-06:00</lastmod>
+        <lastmod>2015-02-05T14:24:05-06:00</lastmod>
     </url>
     <url>
         <loc>
             http://coinsimple.com/support/how-can-i-connect-my-coinbase-account-with-coinsimple
         </loc>
-        <lastmod>2015-01-20T18:32:13-06:00</lastmod>
+        <lastmod>2015-02-05T14:24:05-06:00</lastmod>
     </url>
     <url>
         <loc>
             http://coinsimple.com/support/how-can-i-connect-my-gocoin-account-with-coinsimple
         </loc>
-        <lastmod>2015-01-20T18:32:17-06:00</lastmod>
+        <lastmod>2015-02-05T14:24:05-06:00</lastmod>
     </url>
     <url>
         <loc>http://coinsimple.com/faq/</loc>
@@ -153,5 +153,9 @@
     <url>
         <loc>http://coinsimple.com/assets/css/init.css</loc>
         <lastmod>2015-01-11T15:56:06-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://coinsimple.com/media/</loc>
+        <lastmod>2015-02-05T15:03:26-06:00</lastmod>
     </url>
 </urlset>

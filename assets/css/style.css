@@ -84,7 +84,7 @@ section {
 }
 
 select {
-    background: #FFF url("/media/select-arrows.png") no-repeat right;
+    background: #FFF url("/images/select-arrows.png") no-repeat right;
 }
 
 .col-3 {
@@ -139,7 +139,7 @@ select {
 }
 
 .splash {
-    background: #0369BB url('/media/splash.png') center no-repeat;
+    background: #0369BB url('/images/splash.png') center no-repeat;
     background-size: cover;
     color: #fff;
     height: 800px;
@@ -236,15 +236,15 @@ select {
 }
 
 .icon.analytics {
-    background-image: url('/media/analytics-icon.png');
+    background-image: url('/images/analytics-icon.png');
 }
 
 .icon.invoice {
-    background-image: url('/media/invoice-icon.png');
+    background-image: url('/images/invoice-icon.png');
 }
 
 .icon.switch {
-    background-image: url('/media/switch-icon.png');
+    background-image: url('/images/switch-icon.png');
 }
 
 .features p {
