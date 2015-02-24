@@ -5,8 +5,8 @@
         <description>CoinSimple - Full Bitcoin e-Commerce, Direct to Wallet</description>
         <link>http://coinsimple.com/</link>
         <atom:link href="http://coinsimple.com/feed.xml" rel="self" type="application/rss+xml" />
-        <pubDate>Mon, 23 Feb 2015 18:19:09 -0600</pubDate>
-        <lastBuildDate>Mon, 23 Feb 2015 18:19:09 -0600</lastBuildDate>
+        <pubDate>Tue, 24 Feb 2015 16:19:14 -0600</pubDate>
+        <lastBuildDate>Tue, 24 Feb 2015 16:19:14 -0600</lastBuildDate>
         <generator>Jekyll v2.5.3</generator>
         
             <item>
@@ -290,7 +290,6 @@ Copy the ‘Pairing Code’ shown and copy it.
 &lt;li&gt;&lt;strong&gt;A Business ID and API key from CoinSimple.com&lt;/strong&gt;. To find your information, go to your &lt;a href=&quot;http://coinsimple.com&quot;&gt;CoinSimple.com&lt;/a&gt; dashboard, select your business, and go to “Settings”. You will find your &lt;em&gt;Business ID&lt;/em&gt; and &lt;em&gt;API key&lt;/em&gt; under “Busines Information” and “API Credentials”.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Do not attempt to install this plugin through the WordPress Plugins dashboard. Use the following instructions, instead.&lt;/em&gt;&lt;/p&gt;
 &lt;ol type=&quot;1&quot;&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/coinsimple/coinsimple-woocommerce/archive/v1.zip&quot;&gt;Download a zip file of the plugin from this link&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Log in to your WordPress site as administrator and click on “Plugins”-&amp;gt;“Add New”-&amp;gt;“Upload”-&amp;gt;“Choose file” and select the zip file you downloaded. Click on “Install Now” followed by “Activate Plugin”.&lt;/li&gt;
@@ -378,8 +377,8 @@ document.write(&#39;&lt;a h&#39;+&#39;ref&#39;+&#39;=&quot;ma&#39;+&#39;ilto&#39
 &lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Do not attempt to install this plugin through the WordPress Plugins dashboard. Use the following instructions, instead.&lt;/em&gt;&lt;/p&gt;
 &lt;ol type=&quot;1&quot;&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/coinsimple/coinsimple-wpecommerce/archive/master.zip&quot;&gt;Download a zip file of the plugin&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Log in to your WordPress site as administrator and click on “Plugins”-&amp;gt;“Add New”-&amp;gt;“Upload”-&amp;gt;“Choose file” and select the zip file you downloaded. Click on “Install Now” followed by “Activate Plugin”.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/coinsimple/coinsimple-wpecommerce/archive/v1.zip&quot;&gt;Download a zip file of the plugin&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Log in to your WordPress site using ssh and copy the file your &lt;code&gt;wp-content/plugins/wp-e-commerce&lt;/code&gt; directory that contains the WP eCoomerce files. Unzip the file there.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;At this point the plugin is installed and activated but it still needs to be enabled and configured.&lt;/p&gt;
 &lt;h2 id=&quot;configuration&quot;&gt;Configuration&lt;/h2&gt;
