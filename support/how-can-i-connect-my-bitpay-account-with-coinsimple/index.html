@@ -60,7 +60,7 @@
         </h2>
         <h1><a href="/support/how-can-i-connect-my-bitpay-account-with-coinsimple">How can I connect my BitPay account with CoinSimple?</a></h1>
         <span>
-            Updated on <i class="fa fa-clock-o"></i> <time datetime="2015-01-20">January 20, 2015</time>.
+            Updated on <i class="fa fa-clock-o"></i> <time datetime="2015-02-23">February 23, 2015</time>.
         </span>
 
 
@@ -85,25 +85,83 @@
             <h1 id="posttitle"><a href="#">How can I connect my BitPay account with CoinSimple?</a></h1>
 
         <span>
-            Updated on <i class="fa fa-clock-o"></i> <time datetime="2015-01-20">January 20, 2015</time>.
+            Updated on <i class="fa fa-clock-o"></i> <time datetime="2015-02-23">February 23, 2015</time>.
         </span>
 
 
         </header>
 
         <section class="postbody">
-            <p>In order to use CoinSimple to integrate with the BitPay bitcoin payment processor, you need to copy your BitPay API key on your BitPay dashboard and enter it in CoinSimple. This guide explains how to do that.</p>
+            <p>In order to use CoinSimple to integrate with the BitPay bitcoin payment processor, you need to pair your BitPay account with CoinSimple. This guide explains how to do that.</p>
 <!--more-->
 <p>Please follow these steps:</p>
 <ol type="1">
-<li>Go to <a href="http://bitpay.com">bitpay.com</a> and sign in.</li>
-<li>Go to <a href="http://bitpay.com/api-keys">bitpay.com/api-keys</a>.</li>
-<li>Click on the “Add New API Key” button.</li>
-<li>(Optional) Click on the “Edit” button and in the memo field add the description “CoinSimple”.</li>
-<li>Copy the “API Key ID”, that is a series of characters and numbers like gO0HWTAT9v3UJVP89kQNO2ZSpmmZcUzukr6EeuskER1.</li>
-<li>Return to the BitPay page on the CoinSimple website. Paste the copied the key in the “API Key ID” field. Press “Submit”.</li>
+<li><p>Login to your BitPay account and click on the menu link in the upper left part of your screen.</p></li>
+<li><p>Click on ‘Settings’.</p></li>
 </ol>
-<p>Congratulations! You can now start receiving bitcoin through BitPay, no developer was necessary.</p>
+<div class="container">
+<img src="/images/bitpay/bitpay-action-1-settings.png" alt="Login to your BitPay account and click on the menu link in the upper left part of your screen. Click on 'Settings'." />
+<div class="reference">
+<strong>BitPay Menu: Settings</strong>
+<p>
+Login to your BitPay account and click on the menu link in the upper left part of your screen. Click on ‘Settings’.
+</p>
+</div>
+</div>
+<ol start="2" type="1">
+<li>Scroll down the menu until you find the ‘Developer Resources’ subsection of the Settings menu. Click on ‘API Tokens’.</li>
+</ol>
+<div class="container">
+<img src="/images/bitpay/bitpay-action-2-api_tokens.png" alt="Scroll down the menu until you find the 'Developer Resources' subsection of the Settings menu. Click on 'API Tokens'" />
+<div class="reference">
+<strong>BitPay Menu: API Tokens</strong>
+<p>
+Scroll down the menu until you find the ‘Developer Resources’ subsection of the Settings menu. Click on ‘API Tokens’.
+</p>
+</div>
+</div>
+<ol start="3" type="1">
+<li>Click on ‘Add New Token’.</li>
+</ol>
+<div class="container">
+<img src="/images/bitpay/bitpay-form-add_new_token.png" alt="Click on 'Add Token'." />
+<div class="reference">
+<strong>BitPay Menu: Add New Token</strong>
+<p>
+Click on ‘Add New Token’.
+</p>
+</div>
+</div>
+<ol start="4" type="1">
+<li>In the ‘Token Label’ field enter a name for your token, for example ‘CoinSimple’ and press ‘Add Token’.</li>
+</ol>
+<div class="container">
+<img src="/images/bitpay/bitpay-action-3-add_token.png" alt="In the 'Token Label' field enter a name for your token, for example 'CoinSimple' and press 'Add Token'." />
+<div class="reference">
+<strong>BitPay Form: Add Token</strong>
+<p>
+In the ‘Token Label’ field enter a name for your token, for example ‘CoinSimple’ and press ‘Add Token’.
+</p>
+</div>
+</div>
+<ol start="5" type="1">
+<li>Copy the ‘Pairing Code’ shown and copy it.</li>
+</ol>
+<div class="container">
+<img src="/images/bitpay/bitpay-token.png" alt="Copy the 'Pairing Code' shown and copy it." />
+<div class="reference">
+<strong>BitPay Pairing Code</strong>
+<p>
+Copy the ‘Pairing Code’ shown and copy it.
+</p>
+</div>
+</div>
+<ol start="6" type="1">
+<li>Go to the CoinSimple website, navigate to “Settings”, “Wallets and Processors”, and click on “BitPay”. In the form that appears, paste the copied pairing code.</li>
+<li>Click “Submit”</li>
+<li>You will need to verify the addition of your BitPay account. So, check your email for a message from CoinSimple and click on the relevant link.</li>
+</ol>
+<p>Congratulations! You can now start receiving bitcoin directly to the BitPay account.</p>
         </section>
 
         <footer>

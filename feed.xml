@@ -5,9 +5,156 @@
         <description>CoinSimple - Full Bitcoin e-Commerce, Direct to Wallet</description>
         <link>http://coinsimple.com/</link>
         <atom:link href="http://coinsimple.com/feed.xml" rel="self" type="application/rss+xml" />
-        <pubDate>Mon, 23 Feb 2015 11:32:33 -0600</pubDate>
-        <lastBuildDate>Mon, 23 Feb 2015 11:32:33 -0600</lastBuildDate>
+        <pubDate>Mon, 23 Feb 2015 18:19:09 -0600</pubDate>
+        <lastBuildDate>Mon, 23 Feb 2015 18:19:09 -0600</lastBuildDate>
         <generator>Jekyll v2.5.3</generator>
+        
+            <item>
+                <title>How can I accept bitcoin directly to a bitcoin address using CoinSimple?</title>
+                <description>&lt;p&gt;You can use CoinSimple to accept bitcoins directly to any bitcoin address. This guide shows you how to find your bitcoin address in several wallets.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;h2 id=&quot;example-wallets&quot;&gt;Example Wallets&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#bitcoin-core&quot;&gt;Bitcoin Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#multibit&quot;&gt;MultiBit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#hive&quot;&gt;Hive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#green-address&quot;&gt;Green Address&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#blockchain.info&quot;&gt;Blockchain.info&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;bitcoin-core&quot;&gt;Bitcoin Core&lt;/h2&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;Start Bitcoin Core and click on the “File” menu and the on “Receiving Addresses”.&lt;/li&gt;
+&lt;li&gt;Select the address that you would like to use and click on the “Copy” button on the lower left.&lt;/li&gt;
+&lt;li&gt;Return to the CoinSimple website and paste the bitcoin address.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Congratulations! You can now start receiving bitcoin directly to your Bitcoin Core wallet.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#example-wallets&quot;&gt;Back To Top&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;multibit&quot;&gt;MultiBit&lt;/h2&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;Start MultiBit and click on the “Trade” menu and the on “Request Bitcoin”.&lt;/li&gt;
+&lt;li&gt;On the right panel, you will see a Bitcoin address. Press on the button that is right next to the address to copy it to your clipboard.&lt;/li&gt;
+&lt;li&gt;Return to the CoinSimple website and paste the bitcoin address.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Congratulations! You can now start receiving bitcoin directly to your MultiBit wallet.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#example-wallets&quot;&gt;Back To Top&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;hive&quot;&gt;Hive&lt;/h2&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;Start Hive and hover your mouse over the Bitcoin address of your choice.&lt;/li&gt;
+&lt;li&gt;Click on the address and it will be copied to your clipboard.&lt;/li&gt;
+&lt;li&gt;Return to the CoinSimple website and paste the bitcoin address.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Congratulations! You can now start receiving bitcoin directly to your Hive wallet.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#example-wallets&quot;&gt;Back To Top&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;green-address&quot;&gt;Green Address&lt;/h2&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;Start Green Address and click on “Receive Money” link on the left.&lt;/li&gt;
+&lt;li&gt;Click on “Show URI and address”.&lt;/li&gt;
+&lt;li&gt;Select the bitcoin address that starts with either 1 or 3 and copy it.&lt;/li&gt;
+&lt;li&gt;Return to the CoinSimple website and paste the bitcoin address.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Congratulations! You can now start receiving bitcoin directly to your Green Address wallet.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#example-wallets&quot;&gt;Back To Top&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;blockchain.info&quot;&gt;Blockchain.info&lt;/h2&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;Login to Blockchain.info.&lt;/li&gt;
+&lt;li&gt;On the lower left of the screen, you will see a box that says “This Is Your Bitcoin Address”. Copy the address to your clipboard.&lt;/li&gt;
+&lt;li&gt;Return to the CoinSimple website and paste the bitcoin address.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Congratulations! You can now start receiving bitcoin directly to your Blockchain.info wallet.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#example-wallets&quot;&gt;Back To Top&lt;/a&gt;&lt;/p&gt;</description>
+                <pubDate>Mon, 23 Feb 2015 19:05:00 -0600</pubDate>
+                <link>http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-a-bitcoin-address-using-coinsimple</link>
+                <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-a-bitcoin-address-using-coinsimple</guid>
+                
+                
+                    <category>support</category>
+                
+                    <category>using coinsimple</category>
+                
+            </item>
+        
+            <item>
+                <title>How can I connect my BitPay account with CoinSimple?</title>
+                <description>&lt;p&gt;In order to use CoinSimple to integrate with the BitPay bitcoin payment processor, you need to pair your BitPay account with CoinSimple. This guide explains how to do that.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;p&gt;Please follow these steps:&lt;/p&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;&lt;p&gt;Login to your BitPay account and click on the menu link in the upper left part of your screen.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Click on ‘Settings’.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;img src=&quot;/images/bitpay/bitpay-action-1-settings.png&quot; alt=&quot;Login to your BitPay account and click on the menu link in the upper left part of your screen. Click on &#39;Settings&#39;.&quot; /&gt;
+&lt;div class=&quot;reference&quot;&gt;
+&lt;strong&gt;BitPay Menu: Settings&lt;/strong&gt;
+&lt;p&gt;
+Login to your BitPay account and click on the menu link in the upper left part of your screen. Click on ‘Settings’.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;ol start=&quot;2&quot; type=&quot;1&quot;&gt;
+&lt;li&gt;Scroll down the menu until you find the ‘Developer Resources’ subsection of the Settings menu. Click on ‘API Tokens’.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;img src=&quot;/images/bitpay/bitpay-action-2-api_tokens.png&quot; alt=&quot;Scroll down the menu until you find the &#39;Developer Resources&#39; subsection of the Settings menu. Click on &#39;API Tokens&#39;&quot; /&gt;
+&lt;div class=&quot;reference&quot;&gt;
+&lt;strong&gt;BitPay Menu: API Tokens&lt;/strong&gt;
+&lt;p&gt;
+Scroll down the menu until you find the ‘Developer Resources’ subsection of the Settings menu. Click on ‘API Tokens’.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;ol start=&quot;3&quot; type=&quot;1&quot;&gt;
+&lt;li&gt;Click on ‘Add New Token’.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;img src=&quot;/images/bitpay/bitpay-form-add_new_token.png&quot; alt=&quot;Click on &#39;Add Token&#39;.&quot; /&gt;
+&lt;div class=&quot;reference&quot;&gt;
+&lt;strong&gt;BitPay Menu: Add New Token&lt;/strong&gt;
+&lt;p&gt;
+Click on ‘Add New Token’.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;ol start=&quot;4&quot; type=&quot;1&quot;&gt;
+&lt;li&gt;In the ‘Token Label’ field enter a name for your token, for example ‘CoinSimple’ and press ‘Add Token’.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;img src=&quot;/images/bitpay/bitpay-action-3-add_token.png&quot; alt=&quot;In the &#39;Token Label&#39; field enter a name for your token, for example &#39;CoinSimple&#39; and press &#39;Add Token&#39;.&quot; /&gt;
+&lt;div class=&quot;reference&quot;&gt;
+&lt;strong&gt;BitPay Form: Add Token&lt;/strong&gt;
+&lt;p&gt;
+In the ‘Token Label’ field enter a name for your token, for example ‘CoinSimple’ and press ‘Add Token’.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;ol start=&quot;5&quot; type=&quot;1&quot;&gt;
+&lt;li&gt;Copy the ‘Pairing Code’ shown and copy it.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;img src=&quot;/images/bitpay/bitpay-token.png&quot; alt=&quot;Copy the &#39;Pairing Code&#39; shown and copy it.&quot; /&gt;
+&lt;div class=&quot;reference&quot;&gt;
+&lt;strong&gt;BitPay Pairing Code&lt;/strong&gt;
+&lt;p&gt;
+Copy the ‘Pairing Code’ shown and copy it.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;ol start=&quot;6&quot; type=&quot;1&quot;&gt;
+&lt;li&gt;Go to the CoinSimple website, navigate to “Settings”, “Wallets and Processors”, and click on “BitPay”. In the form that appears, paste the copied pairing code.&lt;/li&gt;
+&lt;li&gt;Click “Submit”&lt;/li&gt;
+&lt;li&gt;You will need to verify the addition of your BitPay account. So, check your email for a message from CoinSimple and click on the relevant link.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Congratulations! You can now start receiving bitcoin directly to the BitPay account.&lt;/p&gt;</description>
+                <pubDate>Mon, 23 Feb 2015 17:52:00 -0600</pubDate>
+                <link>http://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple</link>
+                <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple</guid>
+                
+                
+                    <category>support</category>
+                
+                    <category>using coinsimple</category>
+                
+            </item>
         
             <item>
                 <title>How can I connect my GoCoin account with CoinSimple?</title>
@@ -38,7 +185,7 @@
             </item>
         
             <item>
-                <title>How can I connect my BitPay account with CoinSimple?</title>
+                <title>How can I connect my BitPay account with CoinSimple using BitPay&#39;s legacy API keys?</title>
                 <description>&lt;p&gt;In order to use CoinSimple to integrate with the BitPay bitcoin payment processor, you need to copy your BitPay API key on your BitPay dashboard and enter it in CoinSimple. This guide explains how to do that.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;p&gt;Please follow these steps:&lt;/p&gt;
@@ -52,8 +199,8 @@
 &lt;/ol&gt;
 &lt;p&gt;Congratulations! You can now start receiving bitcoin through BitPay, no developer was necessary.&lt;/p&gt;</description>
                 <pubDate>Tue, 20 Jan 2015 12:07:24 -0600</pubDate>
-                <link>http://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple</link>
-                <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple</guid>
+                <link>http://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple-using-legacy-api-keys</link>
+                <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple-using-legacy-api-keys</guid>
                 
                 
                     <category>support</category>
@@ -308,138 +455,6 @@ document.write(&#39;&lt;a h&#39;+&#39;ref&#39;+&#39;=&quot;ma&#39;+&#39;ilto&#39
                     <category>support</category>
                 
                     <category>bitcoin for ecommerce merchants</category>
-                
-            </item>
-        
-            <item>
-                <title>How can I accept bitcoin directly to a bitcoin address using CoinSimple?</title>
-                <description>&lt;p&gt;You can use CoinSimple to accept bitcoins directly to any bitcoin address. This guide shows you how to find your bitcoin address in several wallets.&lt;/p&gt;
-&lt;!--more--&gt;
-&lt;h2 id=&quot;example-wallets&quot;&gt;Example Wallets&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#bitcoin-core&quot;&gt;Bitcoin Core&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#multibit&quot;&gt;MultiBit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#hive&quot;&gt;Hive&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#green-address&quot;&gt;Green Address&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#blockchain.info&quot;&gt;Blockchain.info&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;bitcoin-core&quot;&gt;Bitcoin Core&lt;/h2&gt;
-&lt;ol type=&quot;1&quot;&gt;
-&lt;li&gt;Start Bitcoin Core and click on the “File” menu and the on “Receiving Addresses”.&lt;/li&gt;
-&lt;li&gt;Select the address that you would like to use and click on the “Copy” button on the lower left.&lt;/li&gt;
-&lt;li&gt;Return to the CoinSimple website and paste the bitcoin address.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Congratulations! You can now start receiving bitcoin directly to your Bitcoin Core wallet.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;#example-wallets&quot;&gt;Back To Top&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;multibit&quot;&gt;MultiBit&lt;/h2&gt;
-&lt;ol type=&quot;1&quot;&gt;
-&lt;li&gt;Start MultiBit and click on the “Trade” menu and the on “Request Bitcoin”.&lt;/li&gt;
-&lt;li&gt;On the right panel, you will see a Bitcoin address. Press on the button that is right next to the address to copy it to your clipboard.&lt;/li&gt;
-&lt;li&gt;Return to the CoinSimple website and paste the bitcoin address.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Congratulations! You can now start receiving bitcoin directly to your MultiBit wallet.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;#example-wallets&quot;&gt;Back To Top&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;hive&quot;&gt;Hive&lt;/h2&gt;
-&lt;ol type=&quot;1&quot;&gt;
-&lt;li&gt;Start Hive and hover your mouse over the Bitcoin address of your choice.&lt;/li&gt;
-&lt;li&gt;Click on the address and it will be copied to your clipboard.&lt;/li&gt;
-&lt;li&gt;Return to the CoinSimple website and paste the bitcoin address.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Congratulations! You can now start receiving bitcoin directly to your Hive wallet.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;#example-wallets&quot;&gt;Back To Top&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;green-address&quot;&gt;Green Address&lt;/h2&gt;
-&lt;ol type=&quot;1&quot;&gt;
-&lt;li&gt;Start Green Address and click on “Receive Money” link on the left.&lt;/li&gt;
-&lt;li&gt;Click on “Show URI and address”.&lt;/li&gt;
-&lt;li&gt;Select the bitcoin address that starts with either 1 or 3 and copy it.&lt;/li&gt;
-&lt;li&gt;Return to the CoinSimple website and paste the bitcoin address.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Congratulations! You can now start receiving bitcoin directly to your Green Address wallet.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;#example-wallets&quot;&gt;Back To Top&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;blockchain.info&quot;&gt;Blockchain.info&lt;/h2&gt;
-&lt;ol type=&quot;1&quot;&gt;
-&lt;li&gt;Login to Blockchain.info.&lt;/li&gt;
-&lt;li&gt;On the lower left of the screen, you will see a box that says “This Is Your Bitcoin Address”. Copy the address to your clipboard.&lt;/li&gt;
-&lt;li&gt;Return to the CoinSimple website and paste the bitcoin address.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Congratulations! You can now start receiving bitcoin directly to your Blockchain.info wallet.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;#example-wallets&quot;&gt;Back To Top&lt;/a&gt;&lt;/p&gt;</description>
-                <pubDate>Tue, 13 Jan 2015 19:05:00 -0600</pubDate>
-                <link>http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-a-bitcoin-address-using-coinsimple</link>
-                <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-a-bitcoin-address-using-coinsimple</guid>
-                
-                
-                    <category>support</category>
-                
-                    <category>using coinsimple</category>
-                
-            </item>
-        
-            <item>
-                <title>How can I accept bitcoin to my Trezor wallet with CoinSimple?</title>
-                <description>&lt;p&gt;In order to use CoinSimple to accept bitcoins directly to your Trezor hardware wallet, you need to find your master public key of your Trezor device. The first receiving address will be used by CoinSimple to verify that you have entered consistent information.&lt;/p&gt;
-&lt;!--more--&gt;
-&lt;ol type=&quot;1&quot;&gt;
-&lt;li&gt;Connect your Trezor hardware device to your computer and navigate to &lt;a href=&quot;http://mytrezor.com&quot;&gt;mytrezor.com&lt;/a&gt;. On the main screen, click on “Add Account” on the left.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&quot;container&quot;&gt;
-&lt;img src=&quot;/images/trezor/trezor-screen-create_new_account.png&quot; alt=&#39;Connect your Trezor hardware device to your computer, and navigate to mytrezor.com. On the main screen, click on &quot;Add Account&quot;.&#39;/&gt;
-&lt;div class=&quot;reference&quot;&gt;
-&lt;strong&gt;MyTrezor.com Account Creation&lt;/strong&gt;
-&lt;p&gt;
-Click on “Add Account” on the left
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;ol start=&quot;2&quot; type=&quot;1&quot;&gt;
-&lt;li&gt;“Account 3” is created by the software and it can be seen on the left as in the image below. In this demo, we will use “Account 3” for payment processing. Click on the “Advanced details” button.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&quot;container&quot;&gt;
-&lt;img src=&quot;/images/trezor/trezor-screen-advanced_details.png&quot; alt=&#39;Connect your Trezor hardware device to your computer, and navigate to mytrezor.com. Click on the &quot;Advanced details&quot; button. &#39;/&gt;
-&lt;div class=&quot;reference&quot;&gt;
-&lt;strong&gt;MyTrezor.com Main Screen&lt;/strong&gt;
-&lt;p&gt;
-Click on the “Advanced details” button.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;ol start=&quot;3&quot; type=&quot;1&quot;&gt;
-&lt;li&gt;Find “Account 3” under the “Account public keys (XPUB)” section, and copy the long alphanumeric code that starts with “xpub” for “Account 3”.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&quot;container&quot;&gt;
-&lt;img src=&quot;/images/trezor/trezor-action-copy_xpub_key.png&quot; alt=&#39;Find the Account that you would like to use for payment processing and copy the long alphanumeric code that starts with &quot;xpub&quot;&#39;/&gt;
-&lt;div class=&quot;reference&quot;&gt;
-&lt;strong&gt;Trezor account master public key&lt;/strong&gt;
-&lt;p&gt;
-Copy the long alphanumeric code that starts with “xpub”
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;ol start=&quot;4&quot; type=&quot;1&quot;&gt;
-&lt;li&gt;Return to the CoinSimple website and paste the xpub key in the “Enter your account public key” field.&lt;/li&gt;
-&lt;li&gt;Return to the MyTrezor.com website and click on your Account on the left of the screen. Click on the “Receive” tab and copy the address that is shown that starts with “1”.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&quot;container&quot;&gt;
-&lt;img src=&quot;/images/trezor/trezor-action-copy_first_address.png&quot; alt=&#39;Return to the MyTrezor.com website and click on your Account on the left of the screen. Click on the &quot;Receive&quot; tab and copy the address that is shown that starts with &quot;1&quot;&#39;/&gt;
-&lt;div class=&quot;reference&quot;&gt;
-&lt;strong&gt;Trezor first receiving address&lt;/strong&gt;
-&lt;p&gt;
-Click on the “Export Watching-Only Copy” button on the right of the screen.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;ol start=&quot;6&quot; type=&quot;1&quot;&gt;
-&lt;li&gt;Return to the CoinSimple website and paste the key in the “Enter the first address” field.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Congratulations! You can now start receiving bitcoin directly with your Trezor hierarchical deterministic wallet.&lt;/p&gt;</description>
-                <pubDate>Tue, 13 Jan 2015 19:05:00 -0600</pubDate>
-                <link>http://coinsimple.com/support/how-can-i-accept-bitcoin-to-my-trezor-wallet-with-coinsimple</link>
-                <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-accept-bitcoin-to-my-trezor-wallet-with-coinsimple</guid>
-                
-                
-                    <category>support</category>
-                
-                    <category>using coinsimple</category>
                 
             </item>
         
