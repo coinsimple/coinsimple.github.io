@@ -5,9 +5,38 @@
         <description>CoinSimple - Full Bitcoin e-Commerce, Direct to Wallet</description>
         <link>http://coinsimple.com/</link>
         <atom:link href="http://coinsimple.com/feed.xml" rel="self" type="application/rss+xml" />
-        <pubDate>Thu, 26 Feb 2015 17:39:31 -0600</pubDate>
-        <lastBuildDate>Thu, 26 Feb 2015 17:39:31 -0600</lastBuildDate>
+        <pubDate>Mon, 02 Mar 2015 10:19:46 -0600</pubDate>
+        <lastBuildDate>Mon, 02 Mar 2015 10:19:46 -0600</lastBuildDate>
         <generator>Jekyll v2.5.3</generator>
+        
+            <item>
+                <title>How can I use CoinSimple with my Website or Email Newsletter?</title>
+                <description>&lt;p&gt;This guide explains how to create a button or link on your website, or on your email newsletter, so that you can sell your products and services using CoinSimple. This approach is most useful if you have an HTML-based website or email newsletter; If your website runs on Magento, Wordpress eCommerce, or WooCommerce, please read the relevant articles for more detailed instructions.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;p&gt;&lt;em&gt;Note: If your website runs Magento, WooCommerce or Wordpress eCommerce, please read the following support articles for &lt;a href=&quot;http://coinsimple.com/how-can-i-use-coinsimple-with-magento&quot;&gt;Magento&lt;/a&gt;, &lt;a href=&quot;http://coinsimple.com/how-can-i-use-coinsimple-with-woocommerce&quot;&gt;WooCommerce&lt;/a&gt; and &lt;a href=&quot;http://coinsimple.com/how-can-i-use-coinsimple-with-wordpress-ecommerce&quot;&gt;Wordpress eCommerce&lt;/a&gt;, respectively.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;It is very easy to sell your products and services online through CoinSimple. Even if you don’t have a website that runs specialized eCommerce software, with CoinSimple you can create a link or a button that will allow your customers to pay you in bitcoin. As usual, your bitcoin will end up in your wallet (Electrum, Armory, Trezor or any other bitcoin address), bitcoin processor account (BitPay, Coinbase, GoCoin), or bitcoin exchange, with CoinSimple “doing all the work” and without ever touching any of your bitcoins.&lt;/p&gt;
+&lt;p&gt;In order to do that, you need to create a “Button” by going to the &lt;a href=&quot;https://app.coinsimple.com/&quot;&gt;CoinSimple web application&lt;/a&gt; and clicking on “Buttons”. The process is very similar to that for creating an invoice using CoinSimple and sending it via email, see &lt;a href=&quot;http://coinsimple.com/support/how-can-i-use-coinsimple-to-issue-invoices-and-send-them-via-email&quot;&gt;detailed instructions here&lt;/a&gt;) with a few differences:&lt;/p&gt;
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;&lt;p&gt;When you create a button you do not need to enter the name and email of you customer. That information will be filled by your customer the moment they click on your website’s button.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;You need to specify a webpage where the user will be sent (“redirected”) after they make a payment. Think of this page as the “&lt;em&gt;Thank you, your order is being processed&lt;/em&gt;” page that eCommerce stores have. You should create such a page on your website for your customers. This is the “Redirect URI” that you will see on the form for creating a button on CoinSimple.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;If your website can receive notifications for payments, you can enter the “Callback URI” on the form for creating a button on CoinSimple. That way your website will know that a payment is made, and it could potentially make a page available to a certain user. If you have a simple website or a newsletter, and you don’t have the ability to modify your pages based on notifications, you can leave the “Callback URI” empty. Just make sure that you check your email or CoinSimple dashboard to find out if a customer has paid, so that you can ship your product.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;With CoinSimple, websites of any complexity can be easily set up to accept bitcoin. Please use this feature and let us know what you think on &lt;a href=&quot;https://twitter.com/coinsimple&quot;&gt;Twitter&lt;/a&gt; or at &lt;script type=&quot;text/javascript&quot;&gt;
+&lt;!--
+h=&#39;&amp;#x63;&amp;#x6f;&amp;#x69;&amp;#110;&amp;#x73;&amp;#x69;&amp;#x6d;&amp;#112;&amp;#108;&amp;#x65;&amp;#46;&amp;#x63;&amp;#x6f;&amp;#x6d;&#39;;a=&#39;&amp;#64;&#39;;n=&#39;&amp;#x73;&amp;#x75;&amp;#112;&amp;#112;&amp;#x6f;&amp;#114;&amp;#116;&#39;;e=n+a+h;
+document.write(&#39;&lt;a h&#39;+&#39;ref&#39;+&#39;=&quot;ma&#39;+&#39;ilto&#39;+&#39;:&#39;+e+&#39;&quot; clas&#39;+&#39;s=&quot;em&#39; + &#39;ail&quot;&gt;&#39;+e+&#39;&lt;\/&#39;+&#39;a&#39;+&#39;&gt;&#39;);
+// --&gt;
+&lt;/script&gt;&lt;noscript&gt;&amp;#x73;&amp;#x75;&amp;#112;&amp;#112;&amp;#x6f;&amp;#114;&amp;#116;&amp;#32;&amp;#x61;&amp;#116;&amp;#32;&amp;#x63;&amp;#x6f;&amp;#x69;&amp;#110;&amp;#x73;&amp;#x69;&amp;#x6d;&amp;#112;&amp;#108;&amp;#x65;&amp;#32;&amp;#100;&amp;#x6f;&amp;#116;&amp;#32;&amp;#x63;&amp;#x6f;&amp;#x6d;&lt;/noscript&gt;.&lt;/p&gt;</description>
+                <pubDate>Mon, 02 Mar 2015 09:49:00 -0600</pubDate>
+                <link>http://coinsimple.com/support/how-can-i-use-coinsimple-with-my-website-or-email-newsletter</link>
+                <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-use-coinsimple-with-my-website-or-email-newsletter</guid>
+                
+                
+                    <category>support</category>
+                
+                    <category>bitcoin for ecommerce merchants</category>
+                
+            </item>
         
             <item>
                 <title>How can I use CoinSimple with Magento?</title>
@@ -377,91 +406,6 @@ Copy the ‘Pairing Code’ shown and copy it.
                     <category>support</category>
                 
                     <category>using coinsimple</category>
-                
-            </item>
-        
-            <item>
-                <title>How can I use CoinSimple with WooCommerce?</title>
-                <description>&lt;p&gt;The CoinSimple WooCommerce plugin is an extension of the WooCommerce plugin for Wordpress, and allows e-commerce stores, running on Wordpress and WooCommerce, to accept bitcoin through CoinSimple.&lt;/p&gt;
-&lt;!--more--&gt;
-&lt;h2 id=&quot;requirements&quot;&gt;Requirements&lt;/h2&gt;
-&lt;ol type=&quot;1&quot;&gt;
-&lt;li&gt;&lt;strong&gt;Installed WooCommerce plugin on your Wordpress site&lt;/strong&gt;. (Installation instructions can be found at &lt;a href=&quot;http://www.woothemes.com/woocommerce/&quot;&gt;www.woothemes.com/woocommerce&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;A Business ID and API key from CoinSimple.com&lt;/strong&gt;. To find your information, go to your &lt;a href=&quot;http://coinsimple.com&quot;&gt;CoinSimple.com&lt;/a&gt; dashboard, select your business, and go to “Settings”. You will find your &lt;em&gt;Business ID&lt;/em&gt; and &lt;em&gt;API key&lt;/em&gt; under “Busines Information” and “API Credentials”.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
-&lt;ol type=&quot;1&quot;&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/coinsimple/coinsimple-woocommerce/archive/v1.zip&quot;&gt;Download a zip file of the plugin from this link&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Log in to your WordPress site as administrator and click on “Plugins”-&amp;gt;“Add New”-&amp;gt;“Upload”-&amp;gt;“Choose file” and select the zip file you downloaded. Click on “Install Now” followed by “Activate Plugin”.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;At this point the plugin is installed and activated but it still needs to be enabled and configured.&lt;/p&gt;
-&lt;h2 id=&quot;configuration&quot;&gt;Configuration&lt;/h2&gt;
-&lt;ol type=&quot;1&quot;&gt;
-&lt;li&gt;Log into the WordPress dashboard and click “WooCommerce” and then “Settings”.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;figure&gt;
-&lt;img src=&quot;/images/woocommerce/woocommerce-plugin-action-settings-store.png&quot; alt=&quot;Select WooCommerce then Settings&quot; /&gt;&lt;figcaption&gt;Select “WooCommerce” then “Settings”&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;ol start=&quot;2&quot; type=&quot;1&quot;&gt;
-&lt;li&gt;In the screen that appears click on “Checkout” and then “CoinSimple”.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;figure&gt;
-&lt;img src=&quot;/images/woocommerce/woocommerce-plugin-screen-payments-coinsimple-select.png&quot; alt=&quot;WooCommerce checkout settings page&quot; /&gt;&lt;figcaption&gt;WooCommerce checkout settings page&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;ol start=&quot;5&quot; type=&quot;1&quot;&gt;
-&lt;li&gt;Enter your CoinSimple.com business ID and API in the appropriate fields. Enter the URL of the page that your customers will be directed to after they make their payment.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;figure&gt;
-&lt;img src=&quot;/images/woocommerce/woocommerce-plugin-screen-payments-coinsimple-settings.png&quot; alt=&quot;Business ID, API key and callback URL&quot; /&gt;&lt;figcaption&gt;Business ID, API key and callback URL&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;ol start=&quot;5&quot; type=&quot;1&quot;&gt;
-&lt;li&gt;Click “Save changes”.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&quot;use&quot;&gt;Use&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;When a buyer selects “Bitcoin” as their payment method, an invoice is generated at CoinSimple.&lt;/li&gt;
-&lt;li&gt;After the buyer pays, CoinSimple directs the buyer to the page that you selected in your Settings above.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;support&quot;&gt;Support&lt;/h2&gt;
-&lt;h3 id=&quot;coinsimple-support&quot;&gt;CoinSimple Support&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;If you are having a problem with this plugin, please use &lt;a href=&quot;https://github.com/coinsimple/coinsimple-woocommerce/issues&quot;&gt;this Github issues page&lt;/a&gt; to report your problem.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;woocommerce-support&quot;&gt;WooCommerce Support&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.woothemes.com/woocommerce/&quot;&gt;Homepage&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://docs.woothemes.com&quot;&gt;Documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://support.woothemes.com&quot;&gt;Support&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;troubleshooting&quot;&gt;Troubleshooting&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;This plugin requires PHP 5.4 or higher to function correctly. Contact your webhosting provider or server administrator if you are unsure which version is installed on your web server.&lt;/li&gt;
-&lt;li&gt;Ensure a valid SSL certificate is installed on your server. Also ensure your root CA cert is updated. If your CA cert is not current, you will see curl SSL verification errors.&lt;/li&gt;
-&lt;li&gt;Verify that your web server is not blocking POSTs from servers it may not recognize. Double check this on your firewall as well, if one is being used.&lt;/li&gt;
-&lt;li&gt;Check the system error log file (usually the web server error log) for any errors during CoinSimple payment attempts. If you contact CoinSimple support, they will ask to see the log file to help diagnose the problem.&lt;/li&gt;
-&lt;li&gt;If all else fails, send an email describing your issue in detail to &lt;script type=&quot;text/javascript&quot;&gt;
-&lt;!--
-h=&#39;&amp;#x63;&amp;#x6f;&amp;#x69;&amp;#110;&amp;#x73;&amp;#x69;&amp;#x6d;&amp;#112;&amp;#108;&amp;#x65;&amp;#46;&amp;#x63;&amp;#x6f;&amp;#x6d;&#39;;a=&#39;&amp;#64;&#39;;n=&#39;&amp;#x73;&amp;#x75;&amp;#112;&amp;#112;&amp;#x6f;&amp;#114;&amp;#116;&#39;;e=n+a+h;
-document.write(&#39;&lt;a h&#39;+&#39;ref&#39;+&#39;=&quot;ma&#39;+&#39;ilto&#39;+&#39;:&#39;+e+&#39;&quot; clas&#39;+&#39;s=&quot;em&#39; + &#39;ail&quot;&gt;&#39;+e+&#39;&lt;\/&#39;+&#39;a&#39;+&#39;&gt;&#39;);
-// --&gt;
-&lt;/script&gt;&lt;noscript&gt;&amp;#x73;&amp;#x75;&amp;#112;&amp;#112;&amp;#x6f;&amp;#114;&amp;#116;&amp;#32;&amp;#x61;&amp;#116;&amp;#32;&amp;#x63;&amp;#x6f;&amp;#x69;&amp;#110;&amp;#x73;&amp;#x69;&amp;#x6d;&amp;#112;&amp;#108;&amp;#x65;&amp;#32;&amp;#100;&amp;#x6f;&amp;#116;&amp;#32;&amp;#x63;&amp;#x6f;&amp;#x6d;&lt;/noscript&gt;. In your support request, please provide:
-&lt;ul&gt;
-&lt;li&gt;Wordpress version&lt;/li&gt;
-&lt;li&gt;WooCommerce version&lt;/li&gt;
-&lt;li&gt;PHP version&lt;/li&gt;
-&lt;li&gt;Other plugins installed&lt;/li&gt;
-&lt;li&gt;Configuration settings for the CoinSimple plugin&lt;/li&gt;
-&lt;li&gt;Screenshot of error messages, if any&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-                <pubDate>Tue, 13 Jan 2015 20:52:00 -0600</pubDate>
-                <link>http://coinsimple.com/support/how-can-i-use-coinsimple-with-woocommerce</link>
-                <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-use-coinsimple-with-woocommerce</guid>
-                
-                
-                    <category>support</category>
-                
-                    <category>bitcoin for ecommerce merchants</category>
                 
             </item>
         
