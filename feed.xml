@@ -3,10 +3,10 @@
   <channel>
     <title>CoinSimple</title>
     <description>Full Bitcoin e-Commerce, Direct to your Wallet</description>
-    <link>https://coinsimple.com/</link>
-    <atom:link href="https://coinsimple.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Apr 2015 18:09:23 -0500</pubDate>
-    <lastBuildDate>Wed, 01 Apr 2015 18:09:23 -0500</lastBuildDate>
+    <link>http://coinsimple.com/</link>
+    <atom:link href="http://coinsimple.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 01 Apr 2015 18:10:36 -0500</pubDate>
+    <lastBuildDate>Wed, 01 Apr 2015 18:10:36 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -16,8 +16,8 @@
 &lt;p&gt;What are your options if you are a merchant and want to provide both a decentralized solution (CoinSimple) and a centralized solution like PayPal or Stripe? There are several options but the one that we have found easiest to work with are a combination of Wordpress for your e-commerce store, WooCommerce for the centralized payments, and the &lt;a href=&quot;https://github.com/coinsimple/coinsimple-woocommerce&quot;&gt;CoinSimple WooCommerce plugin&lt;/a&gt; for the decentralized solutions. See a demo of such a set up, without the PayPal integration, &lt;a href=&quot;http://woocommerce.coinsimple.com&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Mar 2015 10:21:00 -0600</pubDate>
-        <link>https://coinsimple.com/faq/will-coinsimple-integrate-paypal-or-stripe-payments</link>
-        <guid isPermaLink="true">https://coinsimple.com/faq/will-coinsimple-integrate-paypal-or-stripe-payments</guid>
+        <link>http://coinsimple.com/faq/will-coinsimple-integrate-paypal-or-stripe-payments</link>
+        <guid isPermaLink="true">http://coinsimple.com/faq/will-coinsimple-integrate-paypal-or-stripe-payments</guid>
         
         
         <category>faq</category>
@@ -54,8 +54,8 @@
 
 </description>
         <pubDate>Mon, 02 Mar 2015 09:49:00 -0600</pubDate>
-        <link>https://coinsimple.com/support/how-can-i-use-coinsimple-with-my-website-or-email-newsletter</link>
-        <guid isPermaLink="true">https://coinsimple.com/support/how-can-i-use-coinsimple-with-my-website-or-email-newsletter</guid>
+        <link>http://coinsimple.com/support/how-can-i-use-coinsimple-with-my-website-or-email-newsletter</link>
+        <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-use-coinsimple-with-my-website-or-email-newsletter</guid>
         
         
         <category>support</category>
@@ -182,8 +182,8 @@
 
 </description>
         <pubDate>Wed, 25 Feb 2015 11:47:00 -0600</pubDate>
-        <link>https://coinsimple.com/support/how-can-i-use-coinsimple-with-magento</link>
-        <guid isPermaLink="true">https://coinsimple.com/support/how-can-i-use-coinsimple-with-magento</guid>
+        <link>http://coinsimple.com/support/how-can-i-use-coinsimple-with-magento</link>
+        <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-use-coinsimple-with-magento</guid>
         
         
         <category>support</category>
@@ -264,8 +264,8 @@
 &lt;p&gt;&lt;a href=&quot;#example-wallets&quot;&gt;Back To Top&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 23 Feb 2015 19:05:00 -0600</pubDate>
-        <link>https://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-a-bitcoin-address-using-coinsimple</link>
-        <guid isPermaLink="true">https://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-a-bitcoin-address-using-coinsimple</guid>
+        <link>http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-a-bitcoin-address-using-coinsimple</link>
+        <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-a-bitcoin-address-using-coinsimple</guid>
         
         
         <category>support</category>
@@ -343,8 +343,8 @@
 &lt;p&gt;Congratulations! You can now start receiving bitcoin directly to the BitPay account.&lt;/p&gt;
 </description>
         <pubDate>Mon, 23 Feb 2015 17:52:00 -0600</pubDate>
-        <link>https://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple</link>
-        <guid isPermaLink="true">https://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple</guid>
+        <link>http://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple</link>
+        <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple</guid>
         
         
         <category>support</category>
@@ -358,8 +358,8 @@
         <description>&lt;p&gt;In order to connect your GoCoin account with CoinSimple, you need to allow the CoinSimple application that we have set up at GoCoin.com to create invoices on your behalf. The process is interactive and it starts as soon as you press the “Connect” button for the GoCoin payment processor on the CoinSimple settings page.&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 Jan 2015 12:07:24 -0600</pubDate>
-        <link>https://coinsimple.com/support/how-can-i-connect-my-gocoin-account-with-coinsimple</link>
-        <guid isPermaLink="true">https://coinsimple.com/support/how-can-i-connect-my-gocoin-account-with-coinsimple</guid>
+        <link>http://coinsimple.com/support/how-can-i-connect-my-gocoin-account-with-coinsimple</link>
+        <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-connect-my-gocoin-account-with-coinsimple</guid>
         
         
         <category>support</category>
@@ -373,8 +373,8 @@
         <description>&lt;p&gt;In order to connect your Coinbase account with CoinSimple, you need to allow the CoinSimple application that we have set up at Coinbase.com to create invoices on your behalf. The process is interactive and it starts as soon as you press the “Connect” button for the Coinbase payment processor on the CoinSimple settings page.&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 Jan 2015 12:07:24 -0600</pubDate>
-        <link>https://coinsimple.com/support/how-can-i-connect-my-coinbase-account-with-coinsimple</link>
-        <guid isPermaLink="true">https://coinsimple.com/support/how-can-i-connect-my-coinbase-account-with-coinsimple</guid>
+        <link>http://coinsimple.com/support/how-can-i-connect-my-coinbase-account-with-coinsimple</link>
+        <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-connect-my-coinbase-account-with-coinsimple</guid>
         
         
         <category>support</category>
@@ -403,8 +403,8 @@
 &lt;p&gt;Congratulations! You can now start receiving bitcoin through BitPay, no developer was necessary.&lt;/p&gt;
 </description>
         <pubDate>Tue, 20 Jan 2015 12:07:24 -0600</pubDate>
-        <link>https://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple-using-legacy-api-keys</link>
-        <guid isPermaLink="true">https://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple-using-legacy-api-keys</guid>
+        <link>http://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple-using-legacy-api-keys</link>
+        <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple-using-legacy-api-keys</guid>
         
         
         <category>support</category>
@@ -432,8 +432,8 @@
 &lt;p&gt;&lt;strong&gt;About Seedcoin&lt;/strong&gt;: Seedcoin is the world’s first seed-stage Bitcoin startup virtual incubator. Seedcoin’s objective is to invest in the creative entrepreneurs of the cryptocurrency and blockchain economy and help them develop the future services, products and applications re-shaping the way we interact with money on a daily basis. Visit &lt;a href=&quot;http://www.seedco.in&quot;&gt;www.seedco.in&lt;/a&gt; for more information.&lt;/p&gt;
 </description>
         <pubDate>Sat, 17 Jan 2015 04:00:00 -0600</pubDate>
-        <link>https://coinsimple.com/blog/coinsimple-and-mexbt-partner-to-integrate-their-platforms</link>
-        <guid isPermaLink="true">https://coinsimple.com/blog/coinsimple-and-mexbt-partner-to-integrate-their-platforms</guid>
+        <link>http://coinsimple.com/blog/coinsimple-and-mexbt-partner-to-integrate-their-platforms</link>
+        <guid isPermaLink="true">http://coinsimple.com/blog/coinsimple-and-mexbt-partner-to-integrate-their-platforms</guid>
         
         
         <category>blog</category>
@@ -471,8 +471,8 @@
 
 </description>
         <pubDate>Fri, 16 Jan 2015 17:57:24 -0600</pubDate>
-        <link>https://coinsimple.com/support/how-can-i-use-coinsimple-to-issue-invoices-and-send-them-via-email</link>
-        <guid isPermaLink="true">https://coinsimple.com/support/how-can-i-use-coinsimple-to-issue-invoices-and-send-them-via-email</guid>
+        <link>http://coinsimple.com/support/how-can-i-use-coinsimple-to-issue-invoices-and-send-them-via-email</link>
+        <guid isPermaLink="true">http://coinsimple.com/support/how-can-i-use-coinsimple-to-issue-invoices-and-send-them-via-email</guid>
         
         
         <category>support</category>
