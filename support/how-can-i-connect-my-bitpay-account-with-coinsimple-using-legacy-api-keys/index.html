@@ -1,183 +1,178 @@
 <!DOCTYPE html>
-<html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
   <head>
-      <meta charset="utf-8" />
-      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=9">
+    <meta name="viewport" content="width=device-width">
+    
 
-      <title>How can I connect my BitPay account with CoinSimple using BitPay's legacy API keys? - CoinSimple</title>
-      <meta name="description" content="CoinSimple - Full Bitcoin e-Commerce, Direct to Wallet" />
+    <title>How can I connect my BitPay account with CoinSimple using BitPay's legacy API keys? | CoinSimple</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11">
 
-      <meta name="HandheldFriendly" content="True" />
-      <meta name="MobileOptimized" content="320" />
-      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      
+    <meta name="description" content="Full Bitcoin e-Commerce, Direct to your Wallet" />
+    <link rel="canonical" href="https://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple-using-legacy-api-keys">
+    <link rel="alternate" type="application/rss+xml" title="CoinSimple" href="https://coinsimple.com/feed.xml" />
 
-      <link rel="alternate" type="application/rss+xml" href="http://coinsimple.com/feed.xml">
-      <link rel="shortcut icon" href="/favicon.ico">
-      <link rel="prefetch" href="http://coinsimple.com">
-      <link rel="canonical" href="http://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple-using-legacy-api-keys">
+    <link rel="publisher" href="https://plus.google.com/+Coinsimple/about">
 
-      <link rel="stylesheet" href="/assets/css/init.css">
-      <link href='//fonts.googleapis.com/css?family=Domine:700|Open+Sans:400,600|Source+Code+Pro:500|Lato:300,400,700' rel='stylesheet' type='text/css'>
-      <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://coinsimple.com">
+    <meta property="og:site_name" content="CoinSimple">
+    <meta property="article:publisher" content="https://www.facebook.com/CoinSimple">
+    <meta property="fb:admins" content="1051152985">
+    <meta property="og:title" content="How can I connect my BitPay account with CoinSimple using BitPay's legacy API keys? | CoinSimple">
+    <meta property="og:image" content="https://coinsimple.com/img/logos/coinsimple-social.jpg">
 
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@CoinSimple">
+    <meta name="twitter:domain" content="https://coinsimple.com">
+    <meta name="twitter:title" content="How can I connect my BitPay account with CoinSimple using BitPay's legacy API keys? | CoinSimple">
+    <meta name="twitter:image:src" content="https://coinsimple.com/img/logos/coinsimple-social.jpg">
+
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico">
+    
+    <!--[if lt IE 9]><script src="/js/vendor/selectivizr-1.0.2.min.js"></script><![endif]-->
   </head>
   <body>
+    <!--[if lt IE 9]>
+      <div class="browsehappy">
+        <p>
+          You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" target="_blank">upgrade your browser</a> to improve your experience.
+        </p>
+      </div>
+    <![endif]-->
+    <div class="page-wrap">
 
-    <!-- Google Tag Manager -->
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-52HL59"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-52HL59');</script>
-    <!-- End Google Tag Manager -->    
 
-    <header class="title">
-    <a href="http://coinsimple.com"><i class="fa icon-CoinSimple-Logo-Blue fa-lg"></i><span>CoinSimple</span></a>
-</header>
-
-<nav class="wrapper   alwaysshow ">
-    <ul class="actions">
-        <li><a href="/blog">Blog</a></li>
-        <li><a href="/support">Support</a></li>
-        <li><a href="/faq">FAQ</a></li>
-        <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
-        <li><a href="https://app.coinsimple.com/login">Sign In</a></li>
-        <li><a class="primary" href="https://app.coinsimple.com/signup">Sign Up</a></li>
-    </ul>
-</nav>
-
-    <div class="index">
-    <div class="wrapper">
-        <h1 class="right">How can I connect my BitPay account with CoinSimple using BitPay's legacy API keys?</h1>
-        <h2 class="left"></h2>
-    </div>
+<div class="head">
+  <div>
+    <a href="/" class="logo">
+      <img src="/img/coinsimple-logo.svg" alt="CoinSimple logo" onError="this.onerror=null;this.src='/img/coinsimple-logo@2x.png';">
+    </a>
+    <button class="primary-menu">
+      <img src="/img/menu.svg" alt="Menu" onError="this.onerror=null;this.src='/img/menu@2x.png';">
+    </button>
+    <nav>
+      <a href="/blog">Blog</a>
+      <a href="/faq">FAQ</a>
+      <a href="/support">Support</a>
+      <a href="https://app.coinsimple.com/signup" class="btn-signup">Sign Up</a>
+      <a href="https://app.coinsimple.com/login" class="btn-signin">Sign In</a>
+    </nav>
+  </div>
 </div>
+<!-- /.head -->
 
-<div id="cover" class="cover ">
-    <div class="background" style="background-image:url('');"></div>
-    <header class="wrapper">
-        <h2>
-            
-                
-            
-                
-                      using coinsimple 
-                
-            
-        </h2>
-        <h1><a href="/support/how-can-i-connect-my-bitpay-account-with-coinsimple-using-legacy-api-keys">How can I connect my BitPay account with CoinSimple using BitPay's legacy API keys?</a></h1>
-        <span>
-            Updated on <i class="fa fa-clock-o"></i> <time datetime="2015-01-20">January 20, 2015</time>.
-        </span>
+<div class="content">
 
 
-    </header>
-    <i class="fa fa-chevron-down movedown"></i>
-</div>
+<div class="default">
+  <h1>How can I connect my BitPay account with CoinSimple using BitPay's legacy API keys?</h1>
+  <p>In order to use CoinSimple to integrate with the BitPay bitcoin payment processor, you need to copy your BitPay API key on your BitPay dashboard and enter it in CoinSimple. This guide explains how to do that.</p>
 
-<section class="posts wrapper">
-    <article class="post ">
-        
-        <header>
-            <div class="feature"><span>Featured</span><i class="fa fa-bookmark fa-lg"></i></div>
-            <h2>
-                
-                    
-                
-                    
-                          using coinsimple 
-                    
-                
-            </h2>
-            <h1 id="posttitle"><a href="#">How can I connect my BitPay account with CoinSimple using BitPay's legacy API keys?</a></h1>
-
-        <span>
-            Updated on <i class="fa fa-clock-o"></i> <time datetime="2015-01-20">January 20, 2015</time>.
-        </span>
-
-
-        </header>
-
-        <section class="postbody">
-            <p>In order to use CoinSimple to integrate with the BitPay bitcoin payment processor, you need to copy your BitPay API key on your BitPay dashboard and enter it in CoinSimple. This guide explains how to do that.</p>
 <!--more-->
+
 <p>Please follow these steps:</p>
-<ol type="1">
-<li>Go to <a href="http://bitpay.com">bitpay.com</a> and sign in.</li>
-<li>Go to <a href="http://bitpay.com/api-keys">bitpay.com/api-keys</a>.</li>
-<li>Click on the “Add New API Key” button.</li>
-<li>(Optional) Click on the “Edit” button and in the memo field add the description “CoinSimple”.</li>
-<li>Copy the “API Key ID”, that is a series of characters and numbers like gO0HWTAT9v3UJVP89kQNO2ZSpmmZcUzukr6EeuskER1.</li>
-<li>Return to the BitPay page on the CoinSimple website. Paste the copied the key in the “API Key ID” field. Press “Submit”.</li>
+
+<ol>
+  <li>Go to <a href="http://bitpay.com">bitpay.com</a> and sign in.</li>
+  <li>Go to <a href="http://bitpay.com/api-keys">bitpay.com/api-keys</a>.</li>
+  <li>Click on the “Add New API Key” button.</li>
+  <li>(Optional) Click on the “Edit” button and in the memo field add the description “CoinSimple”.</li>
+  <li>Copy the “API Key ID”, that is a series of characters and numbers like gO0HWTAT9v3UJVP89kQNO2ZSpmmZcUzukr6EeuskER1.</li>
+  <li>Return to the BitPay page on the CoinSimple website. Paste the copied the key in the “API Key ID” field. Press “Submit”.</li>
 </ol>
+
 <p>Congratulations! You can now start receiving bitcoin through BitPay, no developer was necessary.</p>
-        </section>
-
-        <footer>
-            <ul class="share left">
-                <li><a href="http://twitter.com/share?text=How can I connect my BitPay account with CoinSimple using BitPay's legacy API keys?&url=http://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple-using-legacy-api-keys" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" class="smallbutton lightgray"><i class="fa fa-twitter"></i>Twitter</a></li>
-                <li><a href="https://www.facebook.com/sharer/sharer.php?u=http://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple-using-legacy-api-keys" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" class="smallbutton lightgray"><i class="fa fa-facebook"></i>Facebook</a></li>
-                <li><a href="https://www.linkedin.com/shareArticle?mini=true&title=How can I connect my BitPay account with CoinSimple using BitPay's legacy API keys?&url=http://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple-using-legacy-api-keys" onclick="window.open(this.href, 'linkedin-share', 'width=550,height=235');return false;" class="smallbutton lightgray"><i class="fa fa-linkedin"></i>LinkedIn</a></li>
-                <li><a href="https://plus.google.com/share?url=http://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple-using-legacy-api-keys" onclick="window.open(this.href, 'google-plus-share', 'width=550,height=235');return false;" class="smallbutton lightgray"><i class="fa fa-google-plus"></i>Google</a></li>                
-            </ul>
-        </footer>
-
-    </article>
-
-</section>
 
 
-    <footer class="wrapper">
-    <div class="smallnav">
-    	
-        	
-        
-        	<a href="/faq/index.html">FAQ</a> &bull;
-        
-        	<a href="/blog/index.html">Blog</a> &bull;
-        
-        	<a href="/support/index.html">Support</a> &bull;
-        
-        	
-        
-        	<a href="/media/">Media</a> &bull;
-        
-        	<a href="/privacy/">Privacy Policy</a> &bull;
-        
-        	<a href="/terms/">Terms of Service</a> &bull;
-        
+    <div class="social">
+      <nav>
+        <a href="https://twitter.com/intent/tweet?text=How can I connect my BitPay account with CoinSimple using BitPay's legacy API keys?&url=/support/how-can-i-connect-my-bitpay-account-with-coinsimple-using-legacy-api-keys">
+          <img src="/img/twitter.svg" alt="Twitter logo" onError="this.onerror=null;this.src='/img/twitter@2x.png';">
+          <span>Twitter</span>
+        </a>
+        <a href="https://www.facebook.com/sharer/sharer.php?t=How can I connect my BitPay account with CoinSimple using BitPay's legacy API keys?&u=/support/how-can-i-connect-my-bitpay-account-with-coinsimple-using-legacy-api-keys">
+          <img src="/img/facebook.svg" alt="Facebook logo" onError="this.onerror=null;this.src='/img/facebook@2x.png';">
+          <span>Facebook</span>
+        </a>
+        <a href="http://www.linkedin.com/shareArticle?mini=true&title=How can I connect my BitPay account with CoinSimple using BitPay's legacy API keys?&url=/support/how-can-i-connect-my-bitpay-account-with-coinsimple-using-legacy-api-keys&source=http%3a%2f%2fcoinsimple.com">
+          <img src="/img/linkedin.svg" alt="LinkedIn logo" onError="this.onerror=null;this.src='/img/linkedin@2x.png';">
+          <span>LinkedIn</span>
+        </a>
+        <a href="https://plus.google.com/share?url=https://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple-using-legacy-api-keys">
+          <img src="/img/google-plus.svg" alt="Google+ logo" onError="this.onerror=null;this.src='/img/google-plus@2x.png';">
+          <span>Google</span>
+        </a>
+      </nav>
     </div>
-    <div>
-    	
-        	
-        
-        	<a href="/faq/index.html">FAQ</a> &bull;
-        
-        	<a href="/blog/index.html">Blog</a> &bull;
-        
-        	<a href="/support/index.html">Support</a> &bull;
-        
-        	
-        
-        	<a href="/media/">Media</a> &bull;
-        
-        	<a href="/privacy/">Privacy Policy</a> &bull;
-        
-        	<a href="/terms/">Terms of Service</a> &bull;
-        
-        <a href="http://coinsimple.com/">CoinSimple</a>, 2015.
+    <!-- /.social -->
+
+</div>
+
+</div>
+<!-- /.content -->
+
+<div class="foot">
+  <div>
+    <div class="row">
+      <nav>
+        <h3>Site</h3>
+        <a href="/">Home</a>
+        <a href="/blog">Blog</a>
+        <a href="/faq">FAQ</a>
+        <a href="/support">Support</a>
+      </nav>
+      <nav>
+        <h3>Social</h3>
+        <a href="http://twitter.com/coinsimple">Twitter</a>
+        <a href="https://github.com/coinsimple">GitHub</a>
+        <a href="http://facebook.com/CoinSimple">Facebook</a>        
+      </nav>
+      <nav>
+        <h3>Company</h3>
+        <a href="/about">About Us</a>
+        <a href="/media">Media</a>
+      </nav>
+      <nav>
+        <h3>Legal</h3>
+        <a href="/privacy-policy">Privacy Policy</a>
+        <a href="/terms-of-service">Terms of Service</a>
+        <p>Copyright &copy; 2015</p>
+      </nav>
+      <nav>
+        <h3>Investors</h3>
+        <a href="https://angel.co/coinsimple">AngelList</a>
+        <a href="http://www.seedco.in/home/startups">
+          <img src="/img/seedcoin.svg" alt="Seedcoin logo" onError="this.onerror=null;this.src='/img/seedcoin@2x.png';">
+        </a>
+      </nav>
+      <nav class="last">
+        <a href="/">
+          <img src="/img/coinsimple-logo-light.svg" alt="CoinSimple logo light" onError="this.onerror=null;this.src='/img/coinsimple-logo-light@2x.png';">
+        </a>
+      </nav>
     </div>
-</footer>
+  </div>
+</div>
+<!-- /.foot -->
 
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script type="text/javascript">
-      var config = {
-        'readingtime': true
-      };
-    </script>
-
+    </div>
+    <!--[if lt IE 9]>
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+      <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.11.1.min.js"><\/script>')</script>
+    <![endif]-->
+    <!--[if gt IE 8]><!-->
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+      <script>window.jQuery || document.write('<script src="/js/vendor/jquery-2.1.1.min.js"><\/script>')</script>
+    <!--<![endif]-->
+    <script src="/js/main.js"></script>
   </body>
 </html>
+
+
