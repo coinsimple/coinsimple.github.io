@@ -2,172 +2,176 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>
-            http://coinsimple.com/blog/bitcoin-expert-andreas-m-antonopoulos-joins-coinsimple
+            https://coinsimple.com/blog/bitcoin-expert-andreas-m-antonopoulos-joins-coinsimple
         </loc>
         <lastmod>2015-04-01T17:32:49-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://coinsimple.com/blog/coinsimple-present-at-the-north-american-bitcoin-conference
+            https://coinsimple.com/blog/coinsimple-present-at-the-north-american-bitcoin-conference
         </loc>
         <lastmod>2015-04-01T17:33:11-05:00</lastmod>
     </url>
     <url>
-        <loc>http://coinsimple.com/support/what-is-bitcoin</loc>
+        <loc>https://coinsimple.com/support/what-is-bitcoin</loc>
         <lastmod>2015-03-27T15:18:57-05:00</lastmod>
     </url>
     <url>
-        <loc>http://coinsimple.com/faq/what-is-coinsimple</loc>
-        <lastmod>2015-03-27T11:41:32-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://coinsimple.com/faq/does-coinsimple-control-customer-or-merchant-bitcoins</loc>
+        <loc>https://coinsimple.com/faq/what-is-coinsimple</loc>
         <lastmod>2015-03-27T11:41:32-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://coinsimple.com/faq/how-is-coinsimple-different-from-bitpay-coinbase-gocoin
+            https://coinsimple.com/faq/does-coinsimple-control-customer-or-merchant-bitcoins
         </loc>
         <lastmod>2015-03-27T11:41:32-05:00</lastmod>
     </url>
     <url>
-        <loc>http://coinsimple.com/faq/what-are-the-benefits-of-using-coinsimple</loc>
-        <lastmod>2015-03-27T11:41:32-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://coinsimple.com/faq/what-are-the-main-features-of-coinsimple</loc>
-        <lastmod>2015-03-27T11:41:32-05:00</lastmod>
-    </url>
-    <url>
         <loc>
-            http://coinsimple.com/faq/what-kind-of-information-does-coinsimple-collect-from-the-merchants
+            https://coinsimple.com/faq/how-is-coinsimple-different-from-bitpay-coinbase-gocoin
         </loc>
         <lastmod>2015-03-27T11:41:32-05:00</lastmod>
     </url>
     <url>
-        <loc>http://coinsimple.com/faq/who-is-working-on-coinsimple</loc>
+        <loc>https://coinsimple.com/faq/what-are-the-benefits-of-using-coinsimple</loc>
         <lastmod>2015-03-27T11:41:32-05:00</lastmod>
     </url>
     <url>
-        <loc>http://coinsimple.com/faq/how-does-coinsimple-make-money</loc>
-        <lastmod>2015-03-27T11:41:32-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://coinsimple.com/faq/who-has-funded-coinsimple</loc>
+        <loc>https://coinsimple.com/faq/what-are-the-main-features-of-coinsimple</loc>
         <lastmod>2015-03-27T11:41:32-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-electrum-wallet-using-coinsimple
+            https://coinsimple.com/faq/what-kind-of-information-does-coinsimple-collect-from-the-merchants
+        </loc>
+        <lastmod>2015-03-27T11:41:32-05:00</lastmod>
+    </url>
+    <url>
+        <loc>https://coinsimple.com/faq/who-is-working-on-coinsimple</loc>
+        <lastmod>2015-03-27T11:41:32-05:00</lastmod>
+    </url>
+    <url>
+        <loc>https://coinsimple.com/faq/how-does-coinsimple-make-money</loc>
+        <lastmod>2015-03-27T11:41:32-05:00</lastmod>
+    </url>
+    <url>
+        <loc>https://coinsimple.com/faq/who-has-funded-coinsimple</loc>
+        <lastmod>2015-03-27T11:41:32-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            https://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-electrum-wallet-using-coinsimple
         </loc>
         <lastmod>2015-04-01T17:23:57-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-armory-wallet-using-coinsimple
+            https://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-my-armory-wallet-using-coinsimple
         </loc>
         <lastmod>2015-04-01T17:25:17-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://coinsimple.com/support/how-can-i-accept-bitcoin-to-my-trezor-wallet-with-coinsimple
+            https://coinsimple.com/support/how-can-i-accept-bitcoin-to-my-trezor-wallet-with-coinsimple
         </loc>
         <lastmod>2015-04-01T17:25:59-05:00</lastmod>
     </url>
     <url>
-        <loc>http://coinsimple.com/support/how-can-i-use-coinsimple-with-wordpress-ecommerce</loc>
+        <loc>
+            https://coinsimple.com/support/how-can-i-use-coinsimple-with-wordpress-ecommerce
+        </loc>
         <lastmod>2015-04-01T17:27:11-05:00</lastmod>
     </url>
     <url>
-        <loc>http://coinsimple.com/support/how-can-i-use-coinsimple-with-woocommerce</loc>
+        <loc>https://coinsimple.com/support/how-can-i-use-coinsimple-with-woocommerce</loc>
         <lastmod>2015-04-01T17:27:25-05:00</lastmod>
     </url>
     <url>
-        <loc>http://coinsimple.com/support/how-can-i-set-up-an-account-with-coinsimple</loc>
+        <loc>https://coinsimple.com/support/how-can-i-set-up-an-account-with-coinsimple</loc>
         <lastmod>2015-03-27T15:18:57-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://coinsimple.com/support/how-can-i-use-coinsimple-to-issue-invoices-and-send-them-via-email
+            https://coinsimple.com/support/how-can-i-use-coinsimple-to-issue-invoices-and-send-them-via-email
         </loc>
         <lastmod>2015-03-27T15:18:57-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://coinsimple.com/blog/coinsimple-and-mexbt-partner-to-integrate-their-platforms
+            https://coinsimple.com/blog/coinsimple-and-mexbt-partner-to-integrate-their-platforms
         </loc>
         <lastmod>2015-04-01T17:33:40-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple-using-legacy-api-keys
+            https://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple-using-legacy-api-keys
         </loc>
         <lastmod>2015-03-27T15:18:57-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://coinsimple.com/support/how-can-i-connect-my-coinbase-account-with-coinsimple
+            https://coinsimple.com/support/how-can-i-connect-my-coinbase-account-with-coinsimple
         </loc>
         <lastmod>2015-03-27T15:18:57-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://coinsimple.com/support/how-can-i-connect-my-gocoin-account-with-coinsimple
+            https://coinsimple.com/support/how-can-i-connect-my-gocoin-account-with-coinsimple
         </loc>
         <lastmod>2015-03-27T15:18:57-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple
+            https://coinsimple.com/support/how-can-i-connect-my-bitpay-account-with-coinsimple
         </loc>
         <lastmod>2015-04-01T17:26:53-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-a-bitcoin-address-using-coinsimple
+            https://coinsimple.com/support/how-can-i-accept-bitcoin-directly-to-a-bitcoin-address-using-coinsimple
         </loc>
         <lastmod>2015-04-01T17:04:41-05:00</lastmod>
     </url>
     <url>
-        <loc>http://coinsimple.com/support/how-can-i-use-coinsimple-with-magento</loc>
+        <loc>https://coinsimple.com/support/how-can-i-use-coinsimple-with-magento</loc>
         <lastmod>2015-04-01T17:27:38-05:00</lastmod>
     </url>
     <url>
         <loc>
-            http://coinsimple.com/support/how-can-i-use-coinsimple-with-my-website-or-email-newsletter
+            https://coinsimple.com/support/how-can-i-use-coinsimple-with-my-website-or-email-newsletter
         </loc>
         <lastmod>2015-04-01T17:27:59-05:00</lastmod>
     </url>
     <url>
-        <loc>http://coinsimple.com/faq/will-coinsimple-integrate-paypal-or-stripe-payments</loc>
+        <loc>https://coinsimple.com/faq/will-coinsimple-integrate-paypal-or-stripe-payments</loc>
         <lastmod>2015-03-27T11:41:32-05:00</lastmod>
     </url>
     <url>
-        <loc>http://coinsimple.com/404.html</loc>
+        <loc>https://coinsimple.com/404.html</loc>
         <lastmod>2015-03-27T15:12:42-05:00</lastmod>
     </url>
     <url>
-        <loc>http://coinsimple.com/about/</loc>
+        <loc>https://coinsimple.com/about/</loc>
         <lastmod>2015-03-27T15:12:27-05:00</lastmod>
     </url>
     <url>
-        <loc>http://coinsimple.com/blog/</loc>
+        <loc>https://coinsimple.com/blog/</loc>
         <lastmod>2015-04-01T17:31:26-05:00</lastmod>
     </url>
     <url>
-        <loc>http://coinsimple.com/faq/</loc>
+        <loc>https://coinsimple.com/faq/</loc>
         <lastmod>2015-04-01T17:29:27-05:00</lastmod>
     </url>
     <url>
-        <loc>http://coinsimple.com/support/</loc>
+        <loc>https://coinsimple.com/support/</loc>
         <lastmod>2015-03-27T15:45:55-05:00</lastmod>
     </url>
     <url>
-        <loc>http://coinsimple.com/</loc>
+        <loc>https://coinsimple.com/</loc>
         <lastmod>2015-04-01T17:33:40-05:00</lastmod>
     </url>
     <url>
-        <loc>http://coinsimple.com/media/</loc>
+        <loc>https://coinsimple.com/media/</loc>
         <lastmod>2015-03-27T16:09:22-05:00</lastmod>
     </url>
 </urlset>
