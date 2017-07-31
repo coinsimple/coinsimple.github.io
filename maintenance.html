@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<!-- saved from url=(0059)https://www.herokucdn.com/error-pages/maintenance-mode.html -->
+<html><script type="text/javascript">window["_gaUserPrefs"] = { ioo : function() { return true; } }</script><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">  <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport"> <title>Service Interruption | CoinSimple </title> 
+
+<style>html, body {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  background-color: #F7F8FB;
+  height: 100%;
+  -webkit-font-smoothing: antialiased; }
+
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; }
+
+.message {
+  text-align: center;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px 20px;
+  max-width: 450px; }
+
+.message__title {
+  font-size: 22px;
+  font-weight: 100;
+  margin-top: 15px;
+  color: #47494E;
+  margin-bottom: 8px; }
+
+p {
+  -webkit-margin-after: 0px;
+  -webkit-margin-before: 0px;
+  font-size: 15px;
+  color: #7F828B;
+  line-height: 21px;
+  margin-bottom: 4px; }
+
+.btn {
+  text-decoration: none;
+  padding: 8px 15px;
+  border-radius: 4px;
+  margin-top: 10px;
+  font-size: 14px;
+  color: #7F828B;
+  border: 1px solid #7F828B; }
+
+.hk-logo, .app-icon {
+  fill: #DBE1EC; }
+
+.info {
+  fill: #9FABBC; }
+
+body.friendly {
+  background: -webkit-linear-gradient(-45deg, #8363a1 0%, #74a8c3 100%);
+  background: linear-gradient(135deg, #8363a1 0%, #74a8c3 100%); }
+
+body.friendly .message__title {
+  color: #fff; }
+
+body.friendly p {
+  color: rgba(255, 255, 255, 0.6); }
+
+body.friendly .hk-logo, body.friendly .app-icon {
+  fill: rgba(255, 255, 255, 0.9); }
+
+body.friendly .info {
+  fill: rgba(255, 255, 255, 0.9); }
+
+body.friendly .btn {
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.9); }
+
+.info_area {
+  position: fixed;
+  right: 12px;
+  bottom: 12px; }
+
+.logo {
+  position: fixed;
+  left: 12px;
+  bottom: 12px; }
+</style> <!--<base target="_parent">--><base href="." target="_parent"> <script type="text/javascript">// Promises 
+var _eid_promises = {}; 
+// Turn the incoming message from extension 
+// into pending Promise resolving 
+window.addEventListener("message", function(event) { 
+    if(event.source !== window) return; 
+    if(event.data.src && (event.data.src === "background.js")) { 
+        console.log("Page received: "); 
+        console.log(event.data); 
+        // Get the promise 
+        if(event.data.nonce) { 
+            var p = _eid_promises[event.data.nonce]; 
+            // resolve 
+            if(event.data.result === "ok") { 
+                if(event.data.signature !== undefined) { 
+                    p.resolve({hex: event.data.signature}); 
+                } else if(event.data.version !== undefined) { 
+                    p.resolve(event.data.extension + "/" + event.data.version); 
+                } else if(event.data.cert !== undefined) { 
+                    p.resolve({hex: event.data.cert}); 
+                } else { 
+                    console.log("No idea how to handle message"); 
+                    console.log(event.data); 
+                } 
+            } else { 
+                // reject 
+                p.reject(new Error(event.data.result)); 
+            } 
+            delete _eid_promises[event.data.nonce]; 
+        } else { 
+            console.log("No nonce in event msg"); 
+        } 
+    } 
+}, false); 
+ 
+ 
+function TokenSigning() { 
+    function nonce() { 
+        var val = ""; 
+        var hex = "abcdefghijklmnopqrstuvwxyz0123456789"; 
+        for(var i = 0; i < 16; i++) val += hex.charAt(Math.floor(Math.random() * hex.length)); 
+        return val; 
+    } 
+ 
+    function messagePromise(msg) { 
+        return new Promise(function(resolve, reject) { 
+            // amend with necessary metadata 
+            msg["nonce"] = nonce(); 
+            msg["src"] = "page.js"; 
+            // send message 
+            window.postMessage(msg, "*"); 
+            // and store promise callbacks 
+            _eid_promises[msg.nonce] = { 
+                resolve: resolve, 
+                reject: reject 
+            }; 
+        }); 
+    } 
+    this.getCertificate = function(options) { 
+        var msg = {type: "CERT", lang: options.lang}; 
+        console.log("getCertificate()"); 
+        return messagePromise(msg); 
+    }; 
+    this.sign = function(cert, hash, options) { 
+        var msg = {type: "SIGN", cert: cert.hex, hash: hash.hex, hashtype: hash.type, lang: options.lang, info: options.info}; 
+        console.log("sign()"); 
+        return messagePromise(msg); 
+    }; 
+    this.getVersion = function() { 
+        console.log("getVersion()"); 
+        return messagePromise({ 
+            type: "VERSION" 
+        }); 
+    }; 
+}</script></head> <body>
+<div class="spacer"></div>
+<div class="message">
+<div class="message__title"> Service Interruption </div> <p> CoinSimple has interrupted its service because of the potential Bitcoin hard fork. Please check back later. </p> </div>
+
+</body></html>
